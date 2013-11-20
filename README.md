@@ -1,5 +1,6 @@
-# iEEE Conferences World Map
-![IEEE Logo](http://www.ieee.org/ucm/groups/public/@ieee/@web/@org/@globals/documents/images/ieee_logo_mb_tagline.gif) Crawling the iEEE Conference Search and displays a map
+# ![IEEE Logo](http://www.ieee.org/ucm/groups/public/@ieee/@web/@org/@globals/documents/images/ieee_logo_mb_tagline.gif) Conferences World Map
+Crawling the IEEE Conference Search and displays a map
+--------
 
 ## What is it for?
 
