@@ -19,7 +19,7 @@ Probably it is better to use the .ipynb (iPython Notebook), because I am using i
 1. search iEEE Conference Database
 2. extract all infos from website
 3. ask Google for location of the adress (Geoencoding)
-4. save .kml file (for Google Earth)
+4. save [.kml file (for Google Earth)](https://raw.github.com/balzer82/iEEEConferenceWorldMap/master/iEEE-Conferences.kml)
 5. create World map and Europe Map
 
 ![IEEE European Conferences](https://github.com/balzer82/iEEEConferenceWorldMap/blob/master/iEEE-Conferences-2014-Europe.png?raw=true)
