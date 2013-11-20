@@ -12,6 +12,8 @@ You can use the [iEEE Conference Search](http://www.ieee.org/conferences_events/
 
 ``` python iEEECrawler.py ```
 
+Probably it is better to use the .ipynb (iPython Notebook), because I am using it and probably I forgot to update the .py
+
 ## What is it doin'?
 
 1. search iEEE Conference Database
@@ -19,6 +21,8 @@ You can use the [iEEE Conference Search](http://www.ieee.org/conferences_events/
 3. ask Google for location of the adress (Geoencoding)
 4. save .kml file (for Google Earth)
 5. create World map and Europe Map
+
+![IEEE European Conferences](https://github.com/balzer82/iEEEConferenceWorldMap/blob/master/iEEE-Conferences-2014-Europe.png?raw=true)
 
 ## Dependencies
 
