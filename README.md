@@ -20,9 +20,12 @@ Probably it is better to use the .ipynb (iPython Notebook), because I am using i
 2. extract all infos from website
 3. ask Google for location of the adress (Geoencoding)
 4. save [.kml file (for Google Earth)](https://raw.github.com/balzer82/iEEEConferenceWorldMap/master/iEEE-Conferences.kml)
-5. create World map and Europe Map
+5. create World map, US Map and Europe Map
 
 ![IEEE European Conferences](https://github.com/balzer82/iEEEConferenceWorldMap/blob/master/iEEE-Conferences-2014-Europe.png?raw=true)
+
+![IEEE US Conferences](https://github.com/balzer82/iEEEConferenceWorldMap/blob/master/iEEE-Conferences-2014-USA.png?raw=true)
+
 
 ## Dependencies
 
@@ -30,5 +33,6 @@ Probably it is better to use the .ipynb (iPython Notebook), because I am using i
 2. Basemap (for Map)
 4. Requests (for URL requests)
 5. BeatuifulSoup (for HTML parsing)
+6. numpy (for array)
 7. time (for timeout for Google API)
 8. simplekml (for kml)
