@@ -9,10 +9,9 @@
 
 from mpl_toolkits.basemap import Basemap
 import matplotlib.pyplot as plt
-import numpy as np
 import requests
 from bs4 import BeautifulSoup
-import xml.etree.ElementTree as et
+import numpy as np
 import time
 import simplekml
 
@@ -236,6 +235,33 @@ m.plot(x, y, 'ro', markersize=6)
 
 plt.title("European iEEE Conferences 2014")
 plt.savefig('iEEE-Conferences-2014-Europe.png', bbox_inches='tight', dpi=300)
+
+plt.show()
+
+# <headingcell level=3>
+
+# USA
+
+# <codecell>
+
+mus = Basemap(llcrnrlon=-125.0,llcrnrlat=20.0,urcrnrlon=-60.0,urcrnrlat=51.4,
+            resolution='i',projection='stere',lon_0=-95.0,lat_0=35.0)
+
+mus.drawcoastlines()
+mus.fillcontinents(color='gray')
+# draw parallels and meridians.
+#m.drawparallels(np.arange(-40,61.,2.))
+#m.drawmeridians(np.arange(0.,43.,2.))
+mus.drawmapboundary()
+mus.drawcountries()
+mus.drawstates()
+
+x,y = mus(lon, lat)
+mus.plot(x, y, 'ro', markersize=6)
+
+
+plt.title("US iEEE Conferences 2014")
+plt.savefig('iEEE-Conferences-2014-USA.png', bbox_inches='tight', dpi=300)
 
 plt.show()
 
