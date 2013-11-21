@@ -21,10 +21,16 @@ import simplekml
 
 # <codecell>
 
-def address2coord(address):
+def address2coord(ven, addr):
     
     result = None
-    while result is None or len(address)>2:
+    address = ven + ', ' + addr
+    
+    if 'TBD' in addr:
+        print 'No location determined yet.'
+        return (u'0.0', u'0.0')
+    
+    while result is None:
         try:
             url = 'http://maps.googleapis.com/maps/api/geocode/xml'
             payload = {'address': unicode(address), 'sensor': 'true'}
@@ -47,7 +53,7 @@ def address2coord(address):
             #print response.content
 
             if soup.find('status').string == 'OK':
-                #print('Found Location.')
+                print('Found Location.')
                 result = True
                 return (soup.find('lat').string , soup.find('lng').string)
             elif soup.find('status').string == 'OVER_QUERY_LIMIT':
@@ -56,10 +62,9 @@ def address2coord(address):
             elif soup.find('status').string == 'ZERO_RESULTS':
                 print '\n' + unicode(address)
                 print "not found! Tryin:"
-                # Daten oft unsauber, daher immer einen Buchstaben
-                # vorn weg lassen
-                address=address[1:]
-                #print address
+                # nur noch Stadt nehmen, nicht mehr Hotel usw..
+                address=addr
+                print address
             else:
                 print '\n' + unicode(address) + '\n'
                 print response.url
@@ -97,7 +102,9 @@ payload = {'KEYWORDS': '', \
 
 # Fire the request
 try:
+    print('Requesting IEEE Conference Search...')
     data = requests.get(url, params=payload)
+    print('Done.')
 except Exception, e:
     print e.message
 if data.status_code != 200:
@@ -118,6 +125,7 @@ confloc =[]
 conflat =[]
 conflon =[]
 confurl =[]
+print('Extracting the data from IEEE website')
 for conference in soup.body.find_all('tr', attrs={'class' : ['even','odd']}):
     for idx,infos in enumerate(conference.find_all('td', attrs={'class' : 'pad10'})):
         # Tabelle durchgehen
@@ -131,24 +139,37 @@ for conference in soup.body.find_all('tr', attrs={'class' : ['even','odd']}):
         elif idx==2:
             confurl.append('https://www.ieee.org' + infos.a['href'])
             confloc.append(infos.a.text.strip())
-
+            
             for br in infos.a.findAll('br'):
-                if br.nextSibling == '':
+                if br.nextSibling == '' or None:
                     pass
+                elif br.previousSibling == '' or None:
+                    pass
+                elif br.previousSibling == None:
+                    addr = br.nextSibling.strip()
+                    ven = ''
                 else:
-                    adr = br.nextSibling.strip()
+                    addr = br.nextSibling.strip()
+                    ven = br.previousSibling.strip()
+                    
 
-            lat,lon = address2coord(adr)
+            print('Getting Location of ' + ven + ', ' + addr)
+            location = ven + ', ' + addr
+            lat,lon = address2coord(ven, addr)
             conflat.append(float(lat))
             conflon.append(float(lon))
         else:
             print(u'Unklar, was das für Daten sind.')
-            
-confs = zip(confname,confdate,conflat,conflon,confloc,confurl)
 
+
+confs = zip(confname,confdate,conflat,conflon,confloc,confurl)
+print('Done.')
 # Print the Table           
 #for i in range(len(confname)):
 #    print('%s findet am %s in %s statt.\n' % (confname[i], confdate[i], confloc[i]))
+
+# <codecell>
+
 
 # <headingcell level=2>
 
@@ -160,16 +181,16 @@ kml = simplekml.Kml()
 # Konferenzen löschen, für die kein Ort gefunden wurden
 lon=[]
 lat=[]
-
+print('Creating .kml file.')
 for i in range(len(confs)):
     if confs[i][3] == 0.0:
         pass
     else:
         # KML
         pnt=kml.newpoint(name=confs[i][0], coords=[(confs[i][3],confs[i][2])])
-        desct = 'Time: ' + confs[i][1]
-        desct += '\nPlace: ' + confs[i][4]
-        desct += '\nInfos: ' + confs[i][5]
+        desct = 'from ' + confs[i][1]
+        desct += '\nin ' + confs[i][4]
+        desct += '\n\nInfos: ' + confs[i][5]
         pnt.description = desct
         
         # List for Map
@@ -177,7 +198,8 @@ for i in range(len(confs)):
         lat.append(confs[i][2])
 
 kml.save("iEEE-Conferences.kml")
-print('%s von %s Konferenzen ohne Ort.' % (len(confs)-len(lat),len(confs)))
+print('Done.')
+print('%s of %s conference venues without place.' % (len(confs)-len(lat),len(confs)))
 if (len(confs)-len(lat)) == 0:
     print 'Perfect.'
 elif (len(confs)-len(lat)) > 5:
@@ -210,7 +232,7 @@ x,y = map(lon, lat)
 map.plot(x, y, 'ro', markersize=6)
 plt.title('iEEE Conferences 2014 Worldmap')
 plt.savefig('iEEE-Conferences-2014-Worldmap.png', bbox_inches='tight', dpi=300)
-plt.show()
+#plt.show()
 
 # <headingcell level=3>
 
@@ -236,7 +258,7 @@ m.plot(x, y, 'ro', markersize=6)
 plt.title("European iEEE Conferences 2014")
 plt.savefig('iEEE-Conferences-2014-Europe.png', bbox_inches='tight', dpi=300)
 
-plt.show()
+#plt.show()
 
 # <headingcell level=3>
 
@@ -263,7 +285,7 @@ mus.plot(x, y, 'ro', markersize=6)
 plt.title("US iEEE Conferences 2014")
 plt.savefig('iEEE-Conferences-2014-USA.png', bbox_inches='tight', dpi=300)
 
-plt.show()
+#plt.show()
 
 # <codecell>
 
