@@ -141,10 +141,10 @@ for conference in soup.body.find_all('tr', attrs={'class' : ['even','odd']}):
             confloc.append(infos.a.text.strip())
             
             for br in infos.a.findAll('br'):
-                if br.nextSibling == '' or None:
-                    pass
-                elif br.previousSibling == '' or None:
-                    pass
+                if br.nextSibling == None or '':
+                    break
+                elif br.previousSibling == None or '':
+                    break
                 elif br.previousSibling == None:
                     addr = br.nextSibling.strip()
                     ven = ''
@@ -223,16 +223,21 @@ map = Basemap(projection='robin', resolution = 'l', area_thresh = 1000.0,
 map.drawcoastlines()
 map.drawcountries()
 #map.fillcontinents(color = 'gray')
-map.bluemarble()
+#map.bluemarble()
+map.shadedrelief()
+
 map.drawmapboundary()
 map.drawmeridians(np.arange(0, 360, 30))
 map.drawparallels(np.arange(-90, 90, 30))
 
 x,y = map(lon, lat)
-map.plot(x, y, 'ro', markersize=6)
-plt.title('iEEE Conferences 2014 Worldmap')
+map.plot(x, y, 'ro', markersize=4)
+plt.title('IEEE Conferences 2014')
 plt.savefig('iEEE-Conferences-2014-Worldmap.png', bbox_inches='tight', dpi=300)
+plt.savefig('iEEE-Conferences-2014-Worldmap.pdf', bbox_inches='tight', dpi=300)
 #plt.show()
+print('.png and .pdf saved...')
+plt.close()
 
 # <headingcell level=3>
 
@@ -250,15 +255,17 @@ m.fillcontinents(color='gray')
 #m.drawmeridians(np.arange(0.,43.,2.))
 m.drawmapboundary()
 m.drawcountries()
+m.shadedrelief()
 
 x,y = m(lon, lat)
-m.plot(x, y, 'ro', markersize=6)
+m.plot(x, y, 'ro', markersize=5)
 
-
-plt.title("European iEEE Conferences 2014")
+plt.title("European IEEE Conferences 2014")
 plt.savefig('iEEE-Conferences-2014-Europe.png', bbox_inches='tight', dpi=300)
-
+plt.savefig('iEEE-Conferences-2014-Europe.pdf', bbox_inches='tight', dpi=300)
 #plt.show()
+print('.png and .pdf saved...')
+plt.close()
 
 # <headingcell level=3>
 
@@ -277,18 +284,17 @@ mus.fillcontinents(color='gray')
 mus.drawmapboundary()
 mus.drawcountries()
 mus.drawstates()
+mus.shadedrelief()
 
 x,y = mus(lon, lat)
-mus.plot(x, y, 'ro', markersize=6)
+mus.plot(x, y, 'ro', markersize=5)
 
 
-plt.title("US iEEE Conferences 2014")
+plt.title("US IEEE Conferences 2014")
 plt.savefig('iEEE-Conferences-2014-USA.png', bbox_inches='tight', dpi=300)
-
+plt.savefig('iEEE-Conferences-2014-USA.pdf', bbox_inches='tight', dpi=300)
 #plt.show()
-
-# <codecell>
-
+print('.png and .pdf saved...')
 plt.close()
 
 # <codecell>
