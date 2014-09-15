@@ -81,14 +81,19 @@ def address2coord(ven, addr):
 
 # <codecell>
 
+fromdate = '2015-01-01'
+todate = '2015-12-31'
+
+# <codecell>
+
 # Daten von iEEE Webseite holen
 url='http://www.ieee.org/conferences_events/conferences/search/index.html'
 
 # Suchmaske
 payload = {'KEYWORDS': '', \
            'CONF_SRCH_RDO': 'conf_date', \
-           'RANGE_FROM_DATE': '2014-01-01', \
-           'RANGE_TO_DATE': '2014-12-31', \
+           'RANGE_FROM_DATE': fromdate, \
+           'RANGE_TO_DATE': todate, \
            'REGION': 'ALL', \
            'COUNTRY': 'ALL', \
            'STATE': 'ALL', \
@@ -170,6 +175,7 @@ print('Done.')
 
 # <codecell>
 
+year = int(fromdate.split('-')[0])
 
 # <headingcell level=2>
 
@@ -197,7 +203,7 @@ for i in range(len(confs)):
         lon.append(confs[i][3])
         lat.append(confs[i][2])
 
-kml.save("iEEE-Conferences.kml")
+kml.save("iEEE-Conferences-%i.kml" % year)
 print('Done.')
 print('%s of %s conference venues without place.' % (len(confs)-len(lat),len(confs)))
 if (len(confs)-len(lat)) == 0:
@@ -232,9 +238,9 @@ map.drawparallels(np.arange(-90, 90, 30))
 
 x,y = map(lon, lat)
 map.plot(x, y, 'ro', markersize=4)
-plt.title('IEEE Conferences 2014')
-plt.savefig('iEEE-Conferences-2014-Worldmap.png', bbox_inches='tight', dpi=300, transparent=True)
-plt.savefig('iEEE-Conferences-2014-Worldmap.pdf', bbox_inches='tight', dpi=300, transparent=True)
+plt.title('IEEE Conferences %i' % year)
+plt.savefig('iEEE-Conferences-%i-Worldmap.png' % year, bbox_inches='tight', dpi=300, transparent=True)
+plt.savefig('iEEE-Conferences-%i-Worldmap.pdf' % year, bbox_inches='tight', dpi=300, transparent=True)
 #plt.show()
 print('.png and .pdf saved...')
 plt.close()
@@ -260,9 +266,9 @@ m.shadedrelief()
 x,y = m(lon, lat)
 m.plot(x, y, 'ro', markersize=5)
 
-plt.title("European IEEE Conferences 2014")
-plt.savefig('iEEE-Conferences-2014-Europe.png', bbox_inches='tight', dpi=300, transparent=True)
-plt.savefig('iEEE-Conferences-2014-Europe.pdf', bbox_inches='tight', dpi=300, transparent=True)
+plt.title("European IEEE Conferences %i" % year)
+plt.savefig('iEEE-Conferences-%i-Europe.png' % year, bbox_inches='tight', dpi=300, transparent=True)
+plt.savefig('iEEE-Conferences-%i-Europe.pdf' % year, bbox_inches='tight', dpi=300, transparent=True)
 #plt.show()
 print('.png and .pdf saved...')
 plt.close()
@@ -290,9 +296,9 @@ x,y = mus(lon, lat)
 mus.plot(x, y, 'ro', markersize=5)
 
 
-plt.title("US IEEE Conferences 2014")
-plt.savefig('iEEE-Conferences-2014-USA.png', bbox_inches='tight', dpi=300, transparent=True)
-plt.savefig('iEEE-Conferences-2014-USA.pdf', bbox_inches='tight', dpi=300, transparent=True)
+plt.title("US IEEE Conferences %i" % year)
+plt.savefig('iEEE-Conferences-%i-USA.png' % year, bbox_inches='tight', dpi=300, transparent=True)
+plt.savefig('iEEE-Conferences-%i-USA.pdf' % year, bbox_inches='tight', dpi=300, transparent=True)
 #plt.show()
 print('.png and .pdf saved...')
 plt.close()

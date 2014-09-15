@@ -1,0 +1,3830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>2015 10th International Conference on Industrial and Information Systems (ICIIS)</name>
+            <description>from 17 Dec - 20 Dec 2015
+in Department of Electrical and Electronic EngineeringFaculty of EngineeringUniversity of PeradeniyaPeradeniya, Sri Lanka
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34805</description>
+            <Point id="geom_0">
+                <coordinates>80.5966093,7.2565929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU)</name>
+            <description>from 13 Dec - 17 Dec 2015
+in Firesky Resort and Spa4925 N Scottsdale RdScottsdale, AZ, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34931</description>
+            <Point id="geom_1">
+                <coordinates>-111.9252515,33.5088053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>2015 IEEE 6th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMPSAP)</name>
+            <description>from 13 Dec - 16 Dec 2015
+in Cancun, Mexico
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34928</description>
+            <Point id="geom_2">
+                <coordinates>-111.9252515,33.5088053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>2015 9th International Conference on Sensing Technology (ICST)</name>
+            <description>from 08 Dec - 10 Dec 2015
+in Skycity Auckland Limited88 Federal StreetAuckland, New Zealand
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34974</description>
+            <Point id="geom_3">
+                <coordinates>174.7626758,-36.8490283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>2015 IEEE International Conference on Computer Vision (ICCV)</name>
+            <description>from 07 Dec - 13 Dec 2015
+in Chile
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33071</description>
+            <Point id="geom_4">
+                <coordinates>174.7626758,-36.8490283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>2015 IEEE International Electron Devices Meeting (IEDM)</name>
+            <description>from 07 Dec - 09 Dec 2015
+in Hilton WashingtonWashington, DC, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=14937</description>
+            <Point id="geom_5">
+                <coordinates>-77.0452,38.9163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>2015 Asia-Pacific Microwave Conference (APMC)</name>
+            <description>from 06 Dec - 09 Dec 2015
+in Jinling HotelHanzhong Road 2#Nanjing, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33252</description>
+            <Point id="geom_6">
+                <coordinates>118.783081,32.041872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>GLOBECOM 2015 - 2015 IEEE Global Communications Conference</name>
+            <description>from 06 Dec - 10 Dec 2015
+in Hilton San Diego Bayfront1 Park BoulevardSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30361</description>
+            <Point id="geom_7">
+                <coordinates>-117.1584689,32.7032829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>2015 IEEE Globecom Workshops (GC Wkshps)</name>
+            <description>from 06 Dec - 10 Dec 2015
+in Venue Name: Hilton San Diego Bayfront1 Park Boulevard San Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35281</description>
+            <Point id="geom_8">
+                <coordinates>-117.1584689,32.7032829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>201 IEEE 46th Semiconductor Interface Specialists Conference (SISC)</name>
+            <description>from 02 Dec - 05 Dec 2015
+in the Key Bridge Marriott1401 Lee HighwayArlington, VA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33826</description>
+            <Point id="geom_9">
+                <coordinates>-77.0729803,38.8996468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>2015 86th ARFTG Microwave Measurement Conference</name>
+            <description>from 01 Dec - 04 Dec 2015
+in Georgia Tech Global Learning Center84 5th St. NWAtlanta, GA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34797</description>
+            <Point id="geom_10">
+                <coordinates>-84.3893306,33.7768363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>2015 IEEE IAS Joint Industrial and Commercial Power
+Systems / Petroleum and Chemical Industry Conference
+Acronym (ICPSPCIC)</name>
+            <description>from 19 Nov - 21 Nov 2015
+in NOVOTEL HOTELkONDAPURHYDERABAD, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34457</description>
+            <Point id="geom_11">
+                <coordinates>78.3557775,17.4611262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>2015 SC -  International Conference for High Performance Computing, Networking, Storage and Analysis</name>
+            <description>from 15 Nov - 20 Nov 2015
+in Austin Convention CenterTX, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32761</description>
+            <Point id="geom_12">
+                <coordinates>-99.9018131,31.9685988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>2015 IEEE Avionics Fiber-Optics and Photonics Conference (AVFOP)</name>
+            <description>from 10 Nov - 12 Nov 2015
+in The Fess Parker- A Doubletree by Hilton Resort633 East Cabrillo Blvd.Santa Barbara, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35390</description>
+            <Point id="geom_13">
+                <coordinates>-119.676347,34.4169198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>2015 International Symposium on Antennas and Propagation (ISAP)</name>
+            <description>from 09 Nov - 12 Nov 2015
+in Wrest Point HotelHobart,Tasmania, Australia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33633</description>
+            <Point id="geom_14">
+                <coordinates>147.323814,-42.881903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>2015 3rd IAPR Asian Conference on Pattern Recognition (ACPR)</name>
+            <description>from 03 Nov - 06 Nov 2015
+in Kuala LumpurMalaysia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34815</description>
+            <Point id="geom_15">
+                <coordinates>101.686855,3.139003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>2015 IEEE Jordan Conference on Applied Electrical Engineering and Computing Technologies (AEECT)</name>
+            <description>from 03 Nov - 05 Nov 2015
+in Princess Sumaya University for TechnologyP. O. BOX 1438Amman, Jordan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34041</description>
+            <Point id="geom_16">
+                <coordinates>35.9456951,31.9565783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids)</name>
+            <description>from 03 Nov - 05 Nov 2015
+in Korea Institute of Science and Technology (KIST)Hwarangno 14-gil 5Seongbuk-guSeoul, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35007</description>
+            <Point id="geom_17">
+                <coordinates>127.0182146,37.589116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>2015 IEEE AUTOTESTCON</name>
+            <description>from 02 Nov - 05 Nov 2015
+in MD, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34604</description>
+            <Point id="geom_18">
+                <coordinates>127.0182146,37.589116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>2015 IEEE International Conference on Microwaves, Communications, Antennas and Electronic Systems (COMCAS)</name>
+            <description>from 02 Nov - 04 Nov 2015
+in David Intercontinental Tel-Aviv Hotel12 Kaufman StreetTel-Aviv, Israel
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34947</description>
+            <Point id="geom_19">
+                <coordinates>34.7817676,32.0852999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>2015 IEEE Sensors</name>
+            <description>from 01 Nov - 04 Nov 2015
+in BEXCO55, APEC-ro, Haeundae-gu, BusanBusan, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32916</description>
+            <Point id="geom_20">
+                <coordinates>129.0756416,35.1795543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>2015 IEEE 2nd International Future Energy Electronics Conference (IFEEC)</name>
+            <description>from 01 Nov - 04 Nov 2015
+in Howard Civil Service International HouseNo. 30, Sec. 3, Shin-Sheng South RoadTaipei, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34870</description>
+            <Point id="geom_21">
+                <coordinates>121.4913182,25.0435466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>2015 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)</name>
+            <description>from 30 Oct - 08 Nov 2015
+in Town and Country Resort and Convention Centre500 Hotel Circle NorthSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31482</description>
+            <Point id="geom_22">
+                <coordinates>-117.1685455,32.7621248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>2015 IEEE Electrical Power and Energy Conference (EPEC)</name>
+            <description>from 26 Oct - 28 Oct 2015
+in London Convention Centre300 York Street London, ON, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34060</description>
+            <Point id="geom_23">
+                <coordinates>-81.2430546,42.983025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>2015 18th International Conference on Electrical Machines and Systems (ICEMS)</name>
+            <description>from 25 Oct - 28 Oct 2015
+in TBDPattaya, Thailand
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35108</description>
+            <Point id="geom_24">
+                <coordinates>100.8770813,12.9276082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>2015 IEEE 24th Electrical Performance of Electronic Packaging and Systems (EPEPS)</name>
+            <description>from 25 Oct - 28 Oct 2015
+in DoubleTree by Hilton San Jose2050 Gateway PlaceSan Jose, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34908</description>
+            <Point id="geom_25">
+                <coordinates>-121.922763,37.371691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>2015 IEEE Visualization Conference (VIS)</name>
+            <description>from 23 Oct - 31 Oct 2015
+in Hyatt ChicagoChicago, IL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33645</description>
+            <Point id="geom_26">
+                <coordinates>-87.6219444,41.8872222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>2015 International EURASIP Workshop on RFID Technology (EURFID)</name>
+            <description>from 22 Oct - 23 Oct 2015
+in Hotel Feuriger TatzlwurmOberaudorf, Germany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33610</description>
+            <Point id="geom_27">
+                <coordinates>12.169255,47.6514224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>2015 IEEE Biomedical Circuits and Systems Conference (BioCAS)</name>
+            <description>from 22 Oct - 24 Oct 2015
+in TBDGA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34748</description>
+            <Point id="geom_28">
+                <coordinates>-83.981753,34.065621,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>2015 IEEE Frontiers in Education Conference (FIE)</name>
+            <description>from 21 Oct - 24 Oct 2015
+in Camino Real El Paso101 South El Paso StreetEl Paso, TX, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32614</description>
+            <Point id="geom_29">
+                <coordinates>-106.489592,31.757794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>2015 IEEE International Ultrasonics Symposium (IUS)</name>
+            <description>from 21 Oct - 24 Oct 2015
+in Taipei International Convention Center (TICC)Taipei, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=20458</description>
+            <Point id="geom_30">
+                <coordinates>121.4913182,25.0435466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>2015 IEEE International Conference on Signal and Image Processing Applications (ICSIPA)</name>
+            <description>from 19 Oct - 21 Oct 2015
+in TBDTBDTBDTBDTBDKuala Lumpur, Malaysia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34085</description>
+            <Point id="geom_31">
+                <coordinates>101.6168318,3.0733057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>2015 IEEE Industry Applications Society Annual Meeting</name>
+            <description>from 18 Oct - 22 Oct 2015
+in Intercontinental Dallas15201 Dallas ParkwayAddison, TX, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34466</description>
+            <Point id="geom_32">
+                <coordinates>-96.8232089,32.9565487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>OCEANS 2015 - MTS/IEEE Washington</name>
+            <description>from 18 Oct - 22 Oct 2015
+in Gaylord NationalWashington, DC, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=20940</description>
+            <Point id="geom_33">
+                <coordinates>-77.016785,38.779626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>INTELEC 2015 - 2015 IEEE International Telecommunications Energy Conference</name>
+            <description>from 18 Oct - 22 Oct 2015
+in Swissotel Nankai Osaka5-1-60 Namba Chuo-ku Osaka 542-0076 Osaka, Japan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34847</description>
+            <Point id="geom_34">
+                <coordinates>135.502177,34.6675073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>2015 IEEE PES Insulated Conductors Committee Fall Meeting (PES ICC)</name>
+            <description>from 16 Oct - 24 Oct 2015
+in Red Rock Resort and Casino11011 West Charleston Blvd.Las Vegas, NV, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34160</description>
+            <Point id="geom_35">
+                <coordinates>-115.334816,36.1551327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>2015 IEEE Broadcast Symposium (BTS)</name>
+            <description>from 13 Oct - 15 Oct 2015
+in FL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33654</description>
+            <Point id="geom_36">
+                <coordinates>-115.334816,36.1551327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>2015 9th Jordanian International Electrical and Electronics Engineering Conference (JIEEEC)</name>
+            <description>from 12 Oct - 14 Oct 2015
+in Hayyat Amman HotelAmman, Jordan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34283</description>
+            <Point id="geom_37">
+                <coordinates>35.9456951,31.9565783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>2015 IEEE International Workshop on Measurements and Networking (M&amp;N)</name>
+            <description>from 12 Oct - 13 Oct 2015
+in Quinta das Lagrimas PalaceRua António Augusto GonçalvesCoimbra, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35169</description>
+            <Point id="geom_38">
+                <coordinates>-8.4333585,40.2011011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>2015 IEEE Compound Semiconductor Integrated Circuit Symposium (CSICS)</name>
+            <description>from 11 Oct - 14 Oct 2015
+in Sheraton New Orleans Hotel500 Canal StreetNew Orleans, LA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33741</description>
+            <Point id="geom_39">
+                <coordinates>-90.0679995,29.9518664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>2015 IEEE 61st Holm Conference on Electrical Contacts (Holm 2015)</name>
+            <description>from 11 Oct - 14 Oct 2015
+in Omni San Diego675 L StSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34993</description>
+            <Point id="geom_40">
+                <coordinates>-117.1586678,32.7070817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>2015 IEEE Information Theory Workshop - Fall (ITW)</name>
+            <description>from 11 Oct - 15 Oct 2015
+in Lotte City Hotel Jeju83Doryeong-roJeju-siJeju Island, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35278</description>
+            <Point id="geom_41">
+                <coordinates>126.3520461,33.2902148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>2015 IEEE 9th International Conference on Standardization and Innovation in Information Technology (SIIT)</name>
+            <description>from 07 Oct - 09 Oct 2015
+in CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34761</description>
+            <Point id="geom_42">
+                <coordinates>126.3520461,33.2902148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>2015 IEEE International Test Conference (ITC)</name>
+            <description>from 06 Oct - 08 Oct 2015
+in Disneyland Hotel Conference CenterAnaheim, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33753</description>
+            <Point id="geom_43">
+                <coordinates>-117.9145036,33.8352932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>2015 IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)</name>
+            <description>from 05 Oct - 07 Oct 2015
+in Daejeon Convention CenterDaejeon, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33967</description>
+            <Point id="geom_44">
+                <coordinates>127.3845475,36.3504119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>2015 IEEE SOI-3D-Subthreshold Microelectronics Technology Unified Conference (S3S)</name>
+            <description>from 05 Oct - 08 Oct 2015
+in DoubleTree by Hilton Sonoma Wine CountryOne DoubleTree DriveRohnert Park, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35389</description>
+            <Point id="geom_45">
+                <coordinates>-122.7078081,38.3655685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>2015 IEEE Petroleum and Chemical Industry Committee Conference (PCIC)</name>
+            <description>from 05 Oct - 07 Oct 2015
+in Hilton Americas-Houston1600 Lamar StreetHouston, TX, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30072</description>
+            <Point id="geom_46">
+                <coordinates>-95.360228,29.7515962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>2015 Embedded Systems Week (ESWeek)</name>
+            <description>from 04 Oct - 09 Oct 2015
+in Mövenpick Amsterdam City CenterPiet Heinkade 111019 BR AmsterdamAmsterdam, Netherlands
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34594</description>
+            <Point id="geom_47">
+                <coordinates>4.9169966,52.3770722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>2015 IEEE Photonics Conference (IPC)</name>
+            <description>from 04 Oct - 08 Oct 2015
+in Hyatt Regency Reston1800 Presidents StreetReston, VA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30449</description>
+            <Point id="geom_48">
+                <coordinates>-77.3562302,38.9577776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>2015 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)</name>
+            <description>from 28 Sep - 02 Oct 2015
+in Clarion Hotel StockholmRingvägen 98Stockholm, Sweden
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35118</description>
+            <Point id="geom_49">
+                <coordinates>18.0747954,59.3073479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</name>
+            <description>from 28 Sep - 02 Oct 2015
+in Congress Center HamburgAm Dammtor / Marseiller StraßeHamburg, Germany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33365</description>
+            <Point id="geom_50">
+                <coordinates>9.9861693,53.5606595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>2015 IEEE International Conference on Image Processing (ICIP)</name>
+            <description>from 27 Sep - 30 Oct 2015
+in Quebec City Convention Centre900 Bd Rene Levesque East Quebec City, QC, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30522</description>
+            <Point id="geom_51">
+                <coordinates>-71.2161963,46.8097119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>2015 International Conference on Signal Processing, Computing and Control (ISPCC)</name>
+            <description>from 24 Sep - 26 Sep 2015
+in Jaypee University of Information TechnologyWaknaghatSolanHP173234Solan, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34591</description>
+            <Point id="geom_52">
+                <coordinates>77.0852258,30.9935469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>2015 IEEE Energy Conversion Congress and Exposition</name>
+            <description>from 20 Sep - 24 Sep 2015
+in Palais des congrès de Montréal (Montreal Convention Center)159 rue Saint-Antoine OuestMontreal, QC, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31813</description>
+            <Point id="geom_53">
+                <coordinates>-73.5593637,45.5054611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>2015 7th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games)</name>
+            <description>from 16 Sep - 18 Sep 2015
+in University of SkövdeHögskolevägenP.O. Box 408Skövde, Sweden
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34407</description>
+            <Point id="geom_54">
+                <coordinates>13.8461208,58.3902782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>2015 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI)</name>
+            <description>from 14 Sep - 16 Sep 2015
+in San Diego State University5500 Campanile DriveSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32792</description>
+            <Point id="geom_55">
+                <coordinates>-117.0725804,32.7719678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>2015 IEEE/AIAA 34th Digital Avionics Systems Conference (DASC)</name>
+            <description>from 13 Sep - 18 Sep 2015
+in Corinthia Hotel PragueKongresova 1Prague, Czech Republic
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34242</description>
+            <Point id="geom_56">
+                <coordinates>14.432054,50.0627877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>2015 Federated Conference on Computer Science and Information Systems (FedCSIS)</name>
+            <description>from 13 Sep - 16 Sep 2015
+in Technical University of LodzPoland
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35051</description>
+            <Point id="geom_57">
+                <coordinates>19.455371,51.748636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>2015 International Conference on Open Source Software Computing (OSSCOM)</name>
+            <description>from 10 Sep - 13 Sep 2015
+in German Jordan UniversityAmman, Jordan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34865</description>
+            <Point id="geom_58">
+                <coordinates>35.8025551,31.7768431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>2015 IEEE 20th Conference on Emerging Technologies &amp; Factory Automation (ETFA)</name>
+            <description>from 08 Sep - 11 Sep 2015
+in TBDTBDTBDTBDTBDLuxembourg, Luxembourg
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33469</description>
+            <Point id="geom_59">
+                <coordinates>6.1319346,49.611621,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>2015 IEEE International Conference on Cluster Computing (CLUSTER)</name>
+            <description>from 08 Sep - 11 Sep 2015
+in Double Tree by Hilton300 East Ohio StreetChicago, IL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34361</description>
+            <Point id="geom_60">
+                <coordinates>-87.6198622,41.8927766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>IEEE EUROCON 2015 - International Conference on Computer as a Tool (EUROCON)</name>
+            <description>from 08 Sep - 11 Sep 2015
+in Palacio de congresos y exposicionesCuesta de Oviedo, s/nSalamanca, Spain
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35131</description>
+            <Point id="geom_61">
+                <coordinates>-5.6692258,40.9624174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>2015 International Conference on Applied Electronics (AE)</name>
+            <description>from 08 Sep - 09 Sep 2015
+in University of West BohemiaUniverzitni 8Faculty of El. Eng.Pilsen, Czech Republic
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35338</description>
+            <Point id="geom_62">
+                <coordinates>13.3736371,49.7384314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>2015 IEEE 17th European Conference on Power Electronics and Applications (EPE ECCE-Europe)</name>
+            <description>from 07 Sep - 11 Sep 2015
+in CICG17 rue de Varembécase postale 13Geneva 20, Switzerland
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34364</description>
+            <Point id="geom_63">
+                <coordinates>6.1400453,46.2024482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>2015 IEEE 7th International Conference on Biometrics Theory, Applications and Systems (BTAS)</name>
+            <description>from 07 Sep - 10 Sep 2015
+in Key Bridge Marriott Hotel1401 Lee Highway   Arlington, VA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35417</description>
+            <Point id="geom_64">
+                <coordinates>-77.0729803,38.8996468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>2015 IEEE International Circuits and Systems Symposium (ICSyS)</name>
+            <description>from 02 Sep - 04 Sep 2015
+in LangkawiMalaysia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35140</description>
+            <Point id="geom_65">
+                <coordinates>99.8,6.35,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>2015 IEEE 5th Asia-Pacific Conference on Synthetic Aperture Radar (APSAR)</name>
+            <description>from 01 Sep - 04 Sep 2015
+in Marina Bay SandsSands Expo and Convention Centre10 Bayfront AvenueSingapore, Singapore
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34455</description>
+            <Point id="geom_66">
+                <coordinates>103.8592683,1.2863203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>2015 IEEE 18th International Conference on Intelligent Transportation Systems - (ITSC 2015)</name>
+            <description>from 01 Sep - 04 Sep 2015
+in Palacio de Congresos de CanariasAvenida Príncipe de Asturias, s/nLas Palmas de Gran CanariaCanary Islands, Spain
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30712</description>
+            <Point id="geom_67">
+                <coordinates>-15.4362574,28.1235459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>2015 IEEE Conference on Computational Intelligence and Games (CIG)</name>
+            <description>from 31 Aug - 02 Sep 2015
+in Tayih Landis Hotel660 Shi-Men Road, Sec.1Tainan, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32719</description>
+            <Point id="geom_68">
+                <coordinates>120.2268758,22.9998999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>2015 IEEE South African Radar Conference</name>
+            <description>from 31 Aug - 03 Sep 2015
+in Sandton Convention CentreMaude StreetSandtonPO BOX 782553Sandton, 2146Sandton, Johannesburg, South Africa
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32801</description>
+            <Point id="geom_69">
+                <coordinates>28.0443556,-26.1042124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>2015 Colour and Visual Computing Symposium (CVCS)</name>
+            <description>from 25 Aug - 26 Aug 2015
+in Gjøvik University CollegeTeknologiveien 22Gjøvik, Norway
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34958</description>
+            <Point id="geom_70">
+                <coordinates>10.6808757,60.7888182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</name>
+            <description>from 25 Aug - 29 Aug 2015
+in TBDMilan, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18176</description>
+            <Point id="geom_71">
+                <coordinates>9.1859243,45.4654219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>2015 International Wireless Communications and Mobile Computing Conference (IWCMC)</name>
+            <description>from 24 Aug - 28 Aug 2015
+in University of DubrovnikUniversity of Dubrovnik, Branitelja Dubrovnika 29Dubrovnik, Croatia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34432</description>
+            <Point id="geom_72">
+                <coordinates>18.0944238,42.6506606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>2015 IEEE International Conference on Automation Science and Engineering (CASE)</name>
+            <description>from 24 Aug - 28 Aug 2015
+in Elite Park Avenue HotelKungsportsavenyn 36-38Gothenburg, Sweden
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35257</description>
+            <Point id="geom_73">
+                <coordinates>11.9781591,57.6985315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>2015 40th International Conference on Infrared, Millimeter, and Terahertz waves (IRMMW-THz)</name>
+            <description>from 23 Aug - 28 Aug 2015
+in Chinese University of Hong KongHong Kong, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34837</description>
+            <Point id="geom_74">
+                <coordinates>114.2067405,22.4203427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>2015 IEEE International Symposium on Electromagnetic Compatibility - EMC 2015</name>
+            <description>from 16 Aug - 22 Aug 2015
+in Congress Center DresdenDresden, Germany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=17922</description>
+            <Point id="geom_75">
+                <coordinates>13.7372621,51.0504088,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>2015 Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)</name>
+            <description>from 13 Aug - 16 Aug 2015
+in Brown University69 Brown StreetProvidence, RI, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35285</description>
+            <Point id="geom_76">
+                <coordinates>-71.4027859,41.8275262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>2015 International Conference on Power and Advanced Control Engineering (ICPACE)</name>
+            <description>from 12 Aug - 14 Aug 2015
+in BNM Institute of TechnologyPost Box No.7087, 27th Cross, 12th Main Road  Banashankari 2nd StageBangaloreBangalore, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35160</description>
+            <Point id="geom_77">
+                <coordinates>77.5945627,12.9715987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>2015 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)</name>
+            <description>from 12 Aug - 15 Aug 2015
+in Crowne Plaza Niagara Falls - FallsviewNiagara Falls, ON, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35011</description>
+            <Point id="geom_78">
+                <coordinates>-79.070985,43.091864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>2015 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO)</name>
+            <description>from 11 Aug - 14 Aug 2015
+in Carleton University1125 Colonel By DriveOttawa, ON, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33002</description>
+            <Point id="geom_79">
+                <coordinates>-75.6939914,45.385564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>2015 International Conference on Quality in Research (QiR)</name>
+            <description>from 10 Aug - 13 Aug 2015
+in Lombok Raya HotelJl. Panca Usaha no.11Mataram Lombok, Indonesia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34557</description>
+            <Point id="geom_80">
+                <coordinates>116.1166863,-8.5819476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>2015 International Conference and Workshop on Computing and Communication (IEMCON)</name>
+            <description>from 07 Aug - 09 Aug 2015
+in University of British Columbia2329 West Mall Vancouver, BC Canada V6T 1Z4Vancouver, BC, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34776</description>
+            <Point id="geom_81">
+                <coordinates>-123.2536718,49.2613746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>2015 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)</name>
+            <description>from 02 Aug - 05 Aug 2015
+in KADIR HAS UNIVERSITYKADIR HAS CAD.CIBALIISTANBUL, Turkey
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35001</description>
+            <Point id="geom_82">
+                <coordinates>28.956716,41.024305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>2015 IEEE Multi-Conference on Systems and Control (MSC)</name>
+            <description>from 01 Aug - 01 Aug 2015
+in SydneySydenyAustralia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32913</description>
+            <Point id="geom_83">
+                <coordinates>151.2069902,-33.8674869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>2015 34th Chinese Control Conference (CCC)</name>
+            <description>from 28 Jul - 30 Jul 2015
+in TBDHangzhou, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34878</description>
+            <Point id="geom_84">
+                <coordinates>120.15507,30.274085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>2015 Science and Information Conference (SAI)</name>
+            <description>from 28 Jul - 30 Jul 2015
+in Park Inn by Radisson Hotel &amp; Conference CentreBath Road Middlesex UB7 0DU, London Heathrow, United Kingdom
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35119</description>
+            <Point id="geom_85">
+                <coordinates>-0.4533677,51.4829646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>2015 IEEE 26th International Conference on Application-specific Systems, Architectures and Processors (ASAP)</name>
+            <description>from 27 Jul - 29 Jul 2015
+in TBDTBDToronto, ON, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34960</description>
+            <Point id="geom_86">
+                <coordinates>-79.3831843,43.653226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>2015 IEEE 15th International Conference on Nanotechnology (IEEE-NANO)</name>
+            <description>from 27 Jul - 30 Jul 2015
+in Angelicum Congress CentreLargo Angelicum, 1Rome, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33323</description>
+            <Point id="geom_87">
+                <coordinates>12.4875359,41.8959487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>IGARSS 2015 - 2015 IEEE International Geoscience and Remote Sensing Symposium</name>
+            <description>from 26 Jul - 31 Jul 2015
+in Fiera Milano Congressi - Milan Convention CenterMilan, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=20532</description>
+            <Point id="geom_88">
+                <coordinates>9.1859243,45.4654219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>2015 IEEE Power &amp; Energy Society General Meeting</name>
+            <description>from 23 Jul - 02 Aug 2015
+in Sheraton Denver Downtown Hotel1550 Court PlaceDenver, CO, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32227</description>
+            <Point id="geom_89">
+                <coordinates>-104.9889585,39.7420452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>2015 IEEE 13th International Conference on Industrial Informatics (INDIN)</name>
+            <description>from 22 Jul - 24 Jul 2015
+in Robinson CollegeGrange RoadCambridge, United Kingdom
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32471</description>
+            <Point id="geom_90">
+                <coordinates>0.1050131,52.1999241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>2015 10th International Conference on Computer Science &amp; Education (ICCSE)</name>
+            <description>from 22 Jul - 24 Jul 2015
+in Fitzwillam CollegePostal code: CB3 0DGCambridge, United Kingdom
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35092</description>
+            <Point id="geom_91">
+                <coordinates>0.1047755,52.2143365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>2015 IEEE International Conference on the Properties and Applications of Dielectric Materials (ICPADM)</name>
+            <description>from 20 Jul - 22 Jul 2015
+in TBDTBDSydney, Australia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32836</description>
+            <Point id="geom_92">
+                <coordinates>151.2069902,-33.8674869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>2015 IEEE International Symposium on Antennas and Propagation &amp; USNC/URSI National Radio Science Meeting</name>
+            <description>from 17 Jul - 25 Jul 2015
+in TBDVancouver, BC, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=19055</description>
+            <Point id="geom_93">
+                <coordinates>-123.1139268,49.261226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>2015 European Control Conference (ECC)</name>
+            <description>from 15 Jul - 17 Jul 2015
+in Johannes Kepler University LinzAltenberger Straße 69Linz, Austria
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33774</description>
+            <Point id="geom_94">
+                <coordinates>14.3219233,48.3375598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>2015 IEEE International Conference on Rehabilitation Robotics (ICORR)</name>
+            <description>from 14 Jul - 17 Jul 2015
+in Nanyang Technological University50 Nanyang AvenueSingapore, Singapore
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34445</description>
+            <Point id="geom_95">
+                <coordinates>103.680142,1.344233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>2015 IEEE Nuclear &amp; Space Radiation Effects Conference (NSREC 2015)</name>
+            <description>from 13 Jul - 17 Jul 2015
+in Marriott Copley PlaceBoston, MA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=20681</description>
+            <Point id="geom_96">
+                <coordinates>-71.0597732,42.3584308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>2015 IEEE 10th International Conference on Global Software Engineering (ICGSE)</name>
+            <description>from 13 Jul - 16 Jul 2015
+in TBDCiudad Real, Spain
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34423</description>
+            <Point id="geom_97">
+                <coordinates>-3.9273778,38.9848295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>2015 IEEE Summer Topicals Meeting Series (SUM)</name>
+            <description>from 13 Jul - 15 Jul 2015
+in British Colonial Hilton Nassau HotelOne Bay StreetNassau, Bahamas
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34890</description>
+            <Point id="geom_98">
+                <coordinates>-77.334484,25.0776234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>2015 IEEE International Professional Communication Conference (ProComm)</name>
+            <description>from 12 Jul - 15 Jul 2015
+in University of LimerickLimerick, Ireland
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33430</description>
+            <Point id="geom_99">
+                <coordinates>-8.5744815,52.6685569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>2015 International Joint Conference on Neural Networks (IJCNN)</name>
+            <description>from 12 Jul - 17 Jul 2015
+in Killarney Convention CentreMuckross RoadKillarney, Ireland
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34689</description>
+            <Point id="geom_100">
+                <coordinates>-9.5068632,52.0525719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>2015 IEEE Technological Innovation in ICT for Agriculture and Rural Development (TIAR)</name>
+            <description>from 10 Jul - 12 Jul 2015
+in Easwari Engineering CollegeBharathi SalaiRamapuramChennaiChennai, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33747</description>
+            <Point id="geom_101">
+                <coordinates>80.27,13.083889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>2015 International Symposium on Signals, Circuits and Systems (ISSCS)</name>
+            <description>from 09 Jul - 10 Jul 2015
+in Faculty of Electroncis, Telecommunications and Information Technology, Technical University IasiIasi, Bd Carol I 11Iasi, Romania
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35049</description>
+            <Point id="geom_102">
+                <coordinates>27.5705021,47.1742186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>2015 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</name>
+            <description>from 08 Jul - 10 Jul 2015
+in Faculte de MedecineMontpellier, France
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33400</description>
+            <Point id="geom_103">
+                <coordinates>3.8735476,43.6129578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>2015 8th International Workshop on Advanced Ground Penetrating Radar (IWAGPR)</name>
+            <description>from 07 Jul - 10 Jul 2015
+in RectoratePiazza San Marco, 4 Firenze, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34411</description>
+            <Point id="geom_104">
+                <coordinates>11.2588311,43.7775102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>2015 IEEE 14th Canadian Workshop on Information Theory (CWIT)</name>
+            <description>from 06 Jul - 09 Jul 2015
+in Memorial University of Newfoundland300 Prince Philip Dr.St. John's, NL, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35038</description>
+            <Point id="geom_105">
+                <coordinates>-52.7418922,47.5718731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>2015 18th International Conference on Information Fusion (Fusion)</name>
+            <description>from 06 Jul - 09 Jul 2015
+in Grand Hyatt Washington1000 H St NWWashington, DC, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34461</description>
+            <Point id="geom_106">
+                <coordinates>-77.0264655,38.8995914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>2015 IEEE MTT-S International Microwave Workshop Series on Advanced Materials and Processes for RF and            THz Applications (IMWS-AMP)</name>
+            <description>from 01 Jul - 03 Jul 2015
+in TBDChina
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34019</description>
+            <Point id="geom_107">
+                <coordinates>-122.4070613,37.7838103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>2015 IEEE 39th Annual Computer Software and Applications Conference (COMPSAC)</name>
+            <description>from 01 Jul - 05 Jul 2015
+in TBDTaichung, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34885</description>
+            <Point id="geom_108">
+                <coordinates>120.6807984,24.1547304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>2015 Asia-Pacific Conference on Computer Aided System Engineering (APCASE)</name>
+            <description>from 01 Jul - 03 Jul 2015
+in Universidad San Francisco de Quito USFQCumbayá, Diego de Robles y Vía InteroceánicaQuito, Ecuador
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34913</description>
+            <Point id="geom_109">
+                <coordinates>-78.4457395,-0.1949626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>2015 IEEE 39th Annual Computer Software and Applications Conference Workshop (COMPSACW)</name>
+            <description>from 01 Jul - 05 Jul 2015
+in TBDTaichung, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34892</description>
+            <Point id="geom_110">
+                <coordinates>120.6807984,24.1547304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>2015 IEEE International Workshop on Advanced Robotics and its Social Impacts (ARSO)</name>
+            <description>from 30 Jun - 02 Jul 2015
+in Cité - Centre des congrés50 quai Charles de GaulleLyon, France
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35354</description>
+            <Point id="geom_111">
+                <coordinates>4.8522874,45.7846041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>2015 IEEE International Conference on Multimedia &amp; Expo Workshops (ICMEW)</name>
+            <description>from 29 Jun - 03 Jul 2015
+in Torino Incontra conference centerItaly
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35294</description>
+            <Point id="geom_112">
+                <coordinates>7.6868565,45.070312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>2015 IEEE International Conference on Multimedia and Expo (ICME)</name>
+            <description>from 29 Jun - 03 Jul 2015
+in TorinoIncontra conference centerVia Nino Costa 8Torino, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34918</description>
+            <Point id="geom_113">
+                <coordinates>7.6857786,45.0650701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>2015 IEEE 16th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</name>
+            <description>from 28 Jun - 01 Jul 2015
+in KTH Royal Institute of TechnologyBrinellvägen 8Stockholm, Sweden
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35015</description>
+            <Point id="geom_114">
+                <coordinates>18.0706841,59.3498156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>2015 Opto-Electronics and Communications Conference (OECC)</name>
+            <description>from 28 Jun - 02 Jul 2015
+in Shanghai Jiao Tong University800 Dong Chuan RdChen Rui Qiu BuildingShanghai, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34672</description>
+            <Point id="geom_115">
+                <coordinates>121.473701,31.230416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>2015 IEEE Intelligent Vehicles Symposium (IV)</name>
+            <description>from 28 Jun - 01 Jul 2015
+in COEXSamseong-dongGangnam-guSeoul, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33984</description>
+            <Point id="geom_116">
+                <coordinates>127.0473248,37.5172363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>2015 International Conference on Technological Advancements in Power and Energy (TAP Energy)</name>
+            <description>from 24 Jun - 26 Jun 2015
+in Amrita Vishwa Vidyapeetham (Amrita University)Amrita School of Engineering Amritapuri campusKollamKeralaKollam, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34674</description>
+            <Point id="geom_117">
+                <coordinates>76.6141396,8.8932118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>2015 9th International Conference on Compatibility and Power Electronics (CPE)</name>
+            <description>from 24 Jun - 26 Jun 2015
+in Faculdade de Ciencias e TecnologiaCampus da FCTMonte da CaparicaCaparica, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33326</description>
+            <Point id="geom_118">
+                <coordinates>-9.1945946,38.665845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>2015 45th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</name>
+            <description>from 22 Jun - 26 Jun 2015
+in TBDTBDTBDTBDTBDRio de Janeiro, Brazil
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33925</description>
+            <Point id="geom_119">
+                <coordinates>-43.1970773,-22.9082998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>2015 International Summer School for
+Advanced Studies on Biometrics for Secure Authentication (SSB)</name>
+            <description>from 22 Jun - 26 Jun 2015
+in hotel el faroPorto Conte 52Alghero, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35310</description>
+            <Point id="geom_120">
+                <coordinates>8.2042792,40.5936597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>2015 12th International Conference on Service Systems and Service Management (ICSSSM)</name>
+            <description>from 22 Jun - 24 Jun 2015
+in Guangzhou, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35135</description>
+            <Point id="geom_121">
+                <coordinates>8.2042792,40.5936597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>2015 IEEE International Workshop of Electronics, Control, Measurement, Signals and their application to Mechatronics (ECMSM)</name>
+            <description>from 22 Jun - 24 Jun 2015
+in Technical university of LiberecStudentska 1402/2Liberec, Czech Republic
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34303</description>
+            <Point id="geom_122">
+                <coordinates>15.0747171,50.7730886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>2015 IEEE World Haptics Conference (WHC)</name>
+            <description>from 21 Jun - 24 Jun 2015
+in TBDChicago or Evanston, IL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32806</description>
+            <Point id="geom_123">
+                <coordinates>-87.6876969,42.0450722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>2015 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)</name>
+            <description>from 17 Jun - 19 Jun 2015
+in HetPandGhent, Belgium
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34874</description>
+            <Point id="geom_124">
+                <coordinates>3.7203012,51.0529194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>2015 International Science Conference on Computer Networks (CN)</name>
+            <description>from 16 Jun - 19 Jun 2015
+in Brunow PalaceBrunow 27Lwówek Śląski, Poland
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35236</description>
+            <Point id="geom_125">
+                <coordinates>15.5871803,51.1328028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>2015 International Conference on Clean Electrical Power (ICCEP)</name>
+            <description>from 16 Jun - 18 Jun 2015
+in Hotel Villa Diodoro Via Bagnoli Croci, 75Taormina (ME), Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34857</description>
+            <Point id="geom_126">
+                <coordinates>15.2915101,37.8505678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>2015 61st IEEE Pulp and Paper Industry Conference - PPIC</name>
+            <description>from 15 Jun - 18 Jun 2015
+in Sheraton375 S. Moorland RoadMilwaukee, WI, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33349</description>
+            <Point id="geom_127">
+                <coordinates>-88.1081025,43.027227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>2015 IEEE 10th Conference on Industrial Electronics and Applications (ICIEA)</name>
+            <description>from 15 Jun - 17 Jun 2015
+in Crowne Plaza Auckland128 Albert Street  Auckland, New Zealand
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35166</description>
+            <Point id="geom_128">
+                <coordinates>174.763305,-36.8498957,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>2015 IEEE 42nd Photovoltaic Specialists Conference (PVSC)</name>
+            <description>from 14 Jun - 19 Jun 2015
+in Hyatt Regency New Orleans601 Loyola AvenueNew Orleans, LA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32539</description>
+            <Point id="geom_129">
+                <coordinates>-90.0774507,29.9496385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>2015 IEEE Transportation Electrification Conference and Expo (ITEC)</name>
+            <description>from 14 Jun - 17 Jun 2015
+in Adoba Hotel Dearborn (Suite # 901)600 Town Center DriveDearborn, MI, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34229</description>
+            <Point id="geom_130">
+                <coordinates>-83.2180353,42.3123666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>2015 IEEE International Symposium on Information Theory (ISIT)</name>
+            <description>from 14 Jun - 19 Jun 2015
+in Hong Kong Convention and Exhibition Centre1 Expo Drive, WanchaiHong Kong, Hong Kong
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30130</description>
+            <Point id="geom_131">
+                <coordinates>114.109497,22.396428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>2015 IEEE International Conference on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA)</name>
+            <description>from 12 Jun - 14 Jun 2015
+in Seaview O'City Hotel ShenzhenShenzhen, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34995</description>
+            <Point id="geom_132">
+                <coordinates>114.057868,22.543099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>2015 International Conference on Unmanned Aircraft Systems (ICUAS)</name>
+            <description>from 09 Jun - 12 Jun 2015
+in Denver Marriott Tech Center4900 S. Syracuse StreetDenver, CO, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34863</description>
+            <Point id="geom_133">
+                <coordinates>-104.9017466,39.6266303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>2015 IEEE 11th  International Conference on Power Electronics and Drive Systems</name>
+            <description>from 09 Jun - 12 Jun 2015
+in TBDSydney, NSWSydney, Australia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32088</description>
+            <Point id="geom_134">
+                <coordinates>151.2068896,-33.873651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>2015 IEEE Symposium on Computational Intelligence for Security and Defense Applications (CISDA)</name>
+            <description>from 09 Jun - 11 Jun 2015
+in Turning Stone Resort CasinoVerona, NY, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33973</description>
+            <Point id="geom_135">
+                <coordinates>-75.5706945,43.1381455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>2015 International Conference on Inorganic Scintillators and their Applications (SCINT)</name>
+            <description>from 08 Jun - 12 Jun 2015
+in TBDTBDCA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32735</description>
+            <Point id="geom_136">
+                <coordinates>-118.3458856,33.7392084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>2015 10th IEEE International Symposium on Industrial Embedded Systems (SIES)</name>
+            <description>from 08 Jun - 10 Jun 2015
+in University of SiegenWeidenauer Straße 167Siegen, Germany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34901</description>
+            <Point id="geom_137">
+                <coordinates>8.02834,50.89767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>ICC 2015 - 2015 IEEE International Conference on Communications</name>
+            <description>from 08 Jun - 12 Jun 2015
+in ExCel LondonOne Western Gateway  Royal Victoria Dock  London E16 1XL  London, United Kingdom
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31322</description>
+            <Point id="geom_138">
+                <coordinates>0.0229485,51.5078289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>2015 52nd ACM/EDAC/IEEE Design Automation Conference (DAC)</name>
+            <description>from 08 Jun - 12 Jun 2015
+in Moscone CenterSan Francisco, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18069</description>
+            <Point id="geom_139">
+                <coordinates>-122.401557,37.784173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>2015 ICC - 2015 IEEE International Conference on Communication Workshop (ICC)</name>
+            <description>from 08 Jun - 12 Jun 2015
+in ExCel LondonOne Western GatewayRoyal Victoria DockLondon, United Kingdom
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31333</description>
+            <Point id="geom_140">
+                <coordinates>0.0202369,51.5082788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>2015 IEEE Symposium on Sensorless Control for Electrical Drives (SLED)</name>
+            <description>from 07 Jun - 08 Jun 2015
+in University of New South WalesHigh StreetKensingtonSydney, Australia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35062</description>
+            <Point id="geom_141">
+                <coordinates>151.2229804,-33.9100068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>2015 IEEE First International Conference on DC Microgrids (ICDCM)</name>
+            <description>from 07 Jun - 10 Jun 2015
+in Atlanta, GA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34639</description>
+            <Point id="geom_142">
+                <coordinates>151.2229804,-33.9100068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</name>
+            <description>from 07 Jun - 12 Jun 2015
+in Hynes Convention Center900 Boylston StBoston, MA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31182</description>
+            <Point id="geom_143">
+                <coordinates>-71.0836229,42.3480651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>2015 IEEE Electrical Insulation Conference</name>
+            <description>from 07 Jun - 11 Jun 2015
+in Renaissance Seattle Hote515 Madison StreetSeattle, WA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32915</description>
+            <Point id="geom_144">
+                <coordinates>-122.3308216,47.6066139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>2015 IEEE PELS Workshop on Emerging Technologies: 
+Wireless Power (WoW)</name>
+            <description>from 05 Jun - 06 Jun 2015
+in E4 KAIST Institutes Building291 Daehak-ro373-1 Guseong-dongYuseong-guDaejeon, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33308</description>
+            <Point id="geom_145">
+                <coordinates>127.3561329,36.362216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>2015 IEEE Metrology for Aerospace (MetroAeroSpace)</name>
+            <description>from 04 Jun - 05 Jun 2015
+in University of SannioPiazza Guerrazzi, 1Benevento, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35018</description>
+            <Point id="geom_146">
+                <coordinates>14.7793247,41.1301672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>2015 International Conference on Models and Technologies for Intelligent Transport Systems (MT-ITS)</name>
+            <description>from 03 Jun - 05 Jun 2015
+in TBDTBDBudapest, Hungary
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34365</description>
+            <Point id="geom_147">
+                <coordinates>19.040235,47.497912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>2015 3rd Experiment@ International Conference (exp.at'15)</name>
+            <description>from 02 Jun - 04 Jun 2015
+in University of AzoresCampus Universitário de Ponta DelgadaRua da Mãe de Deus, 58Ponta Delgada, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35019</description>
+            <Point id="geom_148">
+                <coordinates>-25.67495,37.742242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>2015 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC)</name>
+            <description>from 01 Jun - 03 Jun 2015
+in TBDSingapore, Singapore
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33982</description>
+            <Point id="geom_149">
+                <coordinates>103.8509491,1.2800945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>2015 IEEE 9th International Conference on Power Electronics and ECCE Asia (ICPE-ECCE Asia)</name>
+            <description>from 01 Jun - 05 Jun 2015
+in Sheraton Grande WalkerhillSeoul, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33862</description>
+            <Point id="geom_150">
+                <coordinates>126.9779692,37.566535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>2015 IEEE Pulsed Power Conference (PPC)</name>
+            <description>from 31 May - 04 Jun 2015
+in Hilton Austin500 East 4th StreetAustin, TX, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33290</description>
+            <Point id="geom_151">
+                <coordinates>-97.7380912,30.2651646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>2015 IEEE 26th Symposium on Fusion Engineering (SOFE)</name>
+            <description>from 31 May - 04 Jun 2015
+in Hilton Austin500 East 4th StreetAustin, TX, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33899</description>
+            <Point id="geom_152">
+                <coordinates>-97.7380912,30.2651646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>2015 International Conference on Industrial Instrumentation and Control (ICIC)</name>
+            <description>from 28 May - 30 May 2015
+in College of Engineering PuneShivajinagar, Wellsley RoadPune, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34660</description>
+            <Point id="geom_153">
+                <coordinates>73.8692901,18.5299009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>2015 2nd International Symposium on Future Information and Communication Technologies for Ubiquitous HealthCare (Ubi-HealthTech)</name>
+            <description>from 28 May - 30 May 2015
+in BUPT Hotel10 Xitucheng Road, Haidian District, BeijingBeijing, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34289</description>
+            <Point id="geom_154">
+                <coordinates>116.298056,39.959912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>2015 16th International Carpathian Control Conference (ICCC)</name>
+            <description>from 27 May - 30 May 2015
+in University of MiskolcDepartment of Automation and InfrocommunicationEgyetemvárosMiskolc, Hungary
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34329</description>
+            <Point id="geom_155">
+                <coordinates>20.7653961,48.0793507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>2015 6th International Conference on Modeling, Simulation, and Applied Optimization (ICMSAO)</name>
+            <description>from 27 May - 29 May 2015
+in Yildiz Technical UniversityConference CenterDavutpasa CampusIstanbul, Turkey
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34946</description>
+            <Point id="geom_156">
+                <coordinates>28.97696,41.00527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>2015 International Conference on Smart Sensors and Application (ICSSA)</name>
+            <description>from 26 May - 28 May 2015
+in TBAKuala Lumpur, Malaysia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33739</description>
+            <Point id="geom_157">
+                <coordinates>101.6168318,3.0733057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>2015 Asia-Pacific Symposium on Electromagnetic Compatibility (APEMC)</name>
+            <description>from 26 May - 29 May 2015
+in The Grand HotelNo.1, Sec. 4, Zhongshan N. Rd., Zhongshan Dist.Taipei, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34206</description>
+            <Point id="geom_158">
+                <coordinates>121.5168683,25.0347299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>2015 1st International Conference on Telematics and Future Generation Networks (TAFGEN)</name>
+            <description>from 26 May - 28 May 2015
+in Universiti Teknologi Malaysia Kuala LumpurUTM Razak School of Engineering and Advanced TechnologyLevel 7, Razak TowerJalan SemarakKuala Lumpur, Malaysia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35291</description>
+            <Point id="geom_159">
+                <coordinates>101.71994,3.174944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>2015 International Conference on BioSignal Analysis, Processing and Systems (ICBAPS)</name>
+            <description>from 26 May - 28 May 2015
+in Kuala LumpurKuala Lumpur, Malaysia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33666</description>
+            <Point id="geom_160">
+                <coordinates>101.686855,3.139003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>2015 IEEE 65th Electronic Components and Technology Conference (ECTC)</name>
+            <description>from 26 May - 29 May 2015
+in Sheraton San Diego Hotel &amp; Marina1380 Harbor Island DrSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32613</description>
+            <Point id="geom_161">
+                <coordinates>-117.198224,32.727212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>2015 38th International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)</name>
+            <description>from 25 May - 29 May 2015
+in Grand Hotel Adriatic Convention CentreMarsala Tita 200Opatija, Croatia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35064</description>
+            <Point id="geom_162">
+                <coordinates>14.2993153,45.327012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>2015 22nd Saint Petersburg International Conference on Integrated Navigation Systems</name>
+            <description>from 25 May - 27 May 2015
+in Concern CSRI Elektropribor, JSCSaint Petersburg, Russia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=20378</description>
+            <Point id="geom_163">
+                <coordinates>30.3350986,59.9342802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>2015 IEEE Congress on Evolutionary Computation (CEC)</name>
+            <description>from 25 May - 28 May 2015
+in Sendai International CenterAobayamaAoba-kuSendai, Japan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32605</description>
+            <Point id="geom_164">
+                <coordinates>140.8704029,38.2690761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>2015 3rd International Conference on Control, Engineering &amp; Information Technology (CEIT)</name>
+            <description>from 25 May - 27 May 2015
+in Auditorium, Univ. of TlemcenTlemcen, Algeria
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34963</description>
+            <Point id="geom_165">
+                <coordinates>-1.31667,34.882776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>2015 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</name>
+            <description>from 25 May - 29 May 2015
+in Hyderabad International Convention CenterNovotel &amp; HICC Complex, Near Hitec CityPO Bag 1101, Cyberabad Post OfficeAndhra ProdeshHyderabad, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31752</description>
+            <Point id="geom_166">
+                <coordinates>78.4713982,17.3685203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>2015 IEEE International Conference on Robotics and Automation (ICRA)</name>
+            <description>from 25 May - 30 May 2015
+in Washington State Convention Center800 Convention PlaceSeattle, WA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30979</description>
+            <Point id="geom_167">
+                <coordinates>-122.33168,47.611389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>2015 IEEE International Symposium on Circuits and Systems (ISCAS)</name>
+            <description>from 24 May - 27 May 2015
+in Centro Cultural de BelémPraça do Impériohttp://www.ccb.ptLisbon, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34099</description>
+            <Point id="geom_168">
+                <coordinates>-9.1393366,38.7222524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>2015 Joint IEEE International Symposium on the Applications of Ferroelectric (ISAF), International Symposium on Integrated Functionalities (ISIF), and Piezoelectric Force Microscopy Workshop (PFM)</name>
+            <description>from 24 May - 27 May 2015
+in Matrix BuildingBiopolis30 Biopolis StreetSingapore, Singapore
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33587</description>
+            <Point id="geom_169">
+                <coordinates>103.7924139,1.303452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>2015 IEEE International Conference on Plasma Sciences (ICOPS)</name>
+            <description>from 24 May - 28 May 2015
+in TBDAntalya, Turkey
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=19632</description>
+            <Point id="geom_170">
+                <coordinates>30.70563,36.88414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>2015 85th ARFTG Microwave Measurement Conference (ARFTG)</name>
+            <description>from 22 May - 22 May 2015
+in TBDPhoenix, AZ, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33018</description>
+            <Point id="geom_171">
+                <coordinates>-111.92931,33.5017907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>2015 IEEE International Conference on Electro/Information Technology (EIT)</name>
+            <description>from 21 May - 23 May 2015
+in Northern Illinois UniversityDekalb, IL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35059</description>
+            <Point id="geom_172">
+                <coordinates>-88.773718,41.934299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>2015 International Conference on Biometrics (ICB)</name>
+            <description>from 20 May - 22 May 2015
+in TBD99 Muen-Nogen Road, Tri-Trang BeachPatong, KathuPhuket, Thailand
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34152</description>
+            <Point id="geom_173">
+                <coordinates>98.3020123,7.8969151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>2015 International Symposium on Mathematical Sciences and Computing Research (iSMSC)</name>
+            <description>from 19 May - 20 May 2015
+in TBDTBDIpoh, Perak, Malaysia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34247</description>
+            <Point id="geom_174">
+                <coordinates>101.090106,4.597479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>OCEANS 2015 - Genova</name>
+            <description>from 19 May - 21 May 2015
+in Cotone Congressi GenovaMagazzini del CotoneModulo 9 - 1° pianoGenoa, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33727</description>
+            <Point id="geom_175">
+                <coordinates>9.2655659,44.4546037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>2015 1st URSI Atlantic Radio Science Conference (URSI AT‐RASC)</name>
+            <description>from 18 May - 25 May 2015
+in ExpoMeloneras Convention CenterPlaza de la Convenciones s/n 35100 - Meloneras Gran Canaria, Spain
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34774</description>
+            <Point id="geom_176">
+                <coordinates>-15.6046002,27.7408629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>2015 IEEE Symposium on Security and Privacy (SP)</name>
+            <description>from 18 May - 20 May 2015
+in Fairmont San Jose170 South Market Street San Jose, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33448</description>
+            <Point id="geom_177">
+                <coordinates>-121.8892745,37.3327794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>2015 IEEE International Symposium on Multiple-Valued Logic (ISMVL)</name>
+            <description>from 18 May - 20 May 2015
+in University of Waterloo200 University Ave. W.Waterloo, ON, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34953</description>
+            <Point id="geom_178">
+                <coordinates>-80.5403525,43.4692268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>2015 IEEE 23rd International Conference on Program Comprehension (ICPC)</name>
+            <description>from 18 May - 19 May 2015
+in Firenze FieraPiazza Adua, 1Florence, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33591</description>
+            <Point id="geom_179">
+                <coordinates>11.249644,43.7780404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>2015 IEEE International Memory Workshop (IMW)</name>
+            <description>from 17 May - 20 May 2015
+in Hyatt Regency Hotel1 Old Golf Course RoadMonterey, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33017</description>
+            <Point id="geom_180">
+                <coordinates>-121.874181,36.5928306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>2015 4th Conference on PET/MR and SPECT/MR  (PSMR)</name>
+            <description>from 17 May - 19 May 2015
+in Hotel HermitageLa BiodolaPortoferraioIsola d'ElbaItaly
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35250</description>
+            <Point id="geom_181">
+                <coordinates>10.1927389,42.7781867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>2015 IEEE PES Substations Committee Annual Meeting (SUBS)</name>
+            <description>from 17 May - 21 May 2015
+in The Depot Renaissance Hotel225 South 3rd Avenue MinneapolisMinneapolis, MN, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34799</description>
+            <Point id="geom_182">
+                <coordinates>-93.2526633,44.9849502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>2015 IEEE/ACM 37th IEEE International Conference on Software Engineering (ICSE)</name>
+            <description>from 16 May - 24 May 2015
+in Firenze Fiera Congress CenterPiazza Adua, 1Florence, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30413</description>
+            <Point id="geom_183">
+                <coordinates>11.249644,43.7780404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>2015 IEEE/MTT-S International Microwave Symposium - MTT 2015</name>
+            <description>from 16 May - 22 May 2015
+in Phoenix Convention CenterPhoenix, AZ, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18768</description>
+            <Point id="geom_184">
+                <coordinates>-112.0685317,33.4491407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>2015 IEEE 9th International Symposium on Intelligent Signal Processing (WISP)</name>
+            <description>from 15 May - 17 May 2015
+in University of Sienavia Banchi di Sotto 55Siena, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35383</description>
+            <Point id="geom_185">
+                <coordinates>11.3324872,43.3191927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>2015 5th International Conference on Electronics Information and Emergency Communication (ICEIEC)</name>
+            <description>from 14 May - 16 May 2015
+in Liang JianFuxing Rd 3Haidian DistrictBeijingBeijing, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34962</description>
+            <Point id="geom_186">
+                <coordinates>116.407526,39.90403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>2015 IEEE Region 10 Symposium (TENSYMP)</name>
+            <description>from 13 May - 15 May 2015
+in Courtyard Marriott, AhmedabadRamdev Nagar Cross RoadSatellite RoadAhmedabadGujaratAhmedabad, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34147</description>
+            <Point id="geom_187">
+                <coordinates>72.5713621,23.022505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>2015 IEEE Wireless Power Transfer Conference (WPTC)</name>
+            <description>from 13 May - 15 May 2015
+in University of ColoradoECEE UCB 425Boulder, CO, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35171</description>
+            <Point id="geom_188">
+                <coordinates>-105.2705456,40.0149856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>2015 IEEE 81st Vehicular Technology Conference (VTC Spring)</name>
+            <description>from 11 May - 14 May 2015
+in Technology &amp; Innovation CentreUniversity of StrathclydeInovo Building121 George StreetGlasgow, United Kingdom
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35381</description>
+            <Point id="geom_189">
+                <coordinates>-4.2449385,55.8609493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>2015 IEEE Symposium on Product Compliance Engineering (ISPCE)</name>
+            <description>from 11 May - 13 May 2015
+in TBDChicago, IL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=21104</description>
+            <Point id="geom_190">
+                <coordinates>-87.6297982,41.8781136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>2015 IFIP/IEEE International Symposium on Integrated Network Management (IM)</name>
+            <description>from 11 May - 15 May 2015
+in Ottawa Convention Centre (OCC)55 Colonel By DriveOttawa, ON, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32883</description>
+            <Point id="geom_191">
+                <coordinates>-75.691338,45.4240959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>2015 15th IFAC Symposium on Information Control Problems in Manufacturing (INCOM)</name>
+            <description>from 11 May - 13 May 2015
+in Ottawa Conference Center55 Colonel By DriveOttawa, ON, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33574</description>
+            <Point id="geom_192">
+                <coordinates>-75.691338,45.4240959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>2015 International Conference on Optical Network Design and Modeling (ONDM)</name>
+            <description>from 11 May - 14 May 2015
+in Scuola Superiore Sant'Anna - TeCIP InstituteVia Moruzzi, 1Pisa, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35103</description>
+            <Point id="geom_193">
+                <coordinates>10.4248623,43.7182358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>INTERMAG 2015 - IEEE International Magnetics Conference</name>
+            <description>from 11 May - 15 May 2015
+in China National Convention CenterNo. 8 Precincts, Beichen West Road, Chaoyang District, BeijingChina
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32244</description>
+            <Point id="geom_194">
+                <coordinates>116.443108,39.92147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>2015 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)</name>
+            <description>from 11 May - 14 May 2015
+in Palazzo dei CongressiVia Giacomo Matteotti, 1Pisa, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34403</description>
+            <Point id="geom_195">
+                <coordinates>10.4113705,43.7099647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>2015 IEEE Communication Theory Workshop (CTW)</name>
+            <description>from 11 May - 13 May 2015
+in Laguna Cliffs (Marriott)25135 Park LanternDana Point, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33744</description>
+            <Point id="geom_196">
+                <coordinates>-117.6914116,33.4643807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>2015 IEEE International Conference on Technologies for Practical robot Applications (TePRA)</name>
+            <description>from 11 May - 12 May 2015
+in Crowne Plaza Hotel15 Middlesex Canal Park RoadWoburn, MA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34669</description>
+            <Point id="geom_197">
+                <coordinates>-71.1586009,42.4969746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>2015 IEEE 27th International Symposium on Power Semiconductor Devices &amp; IC's (ISPSD)</name>
+            <description>from 10 May - 14 May 2015
+in Kowloon Shangri-La, Hong Kong64 Mody RoadTsim Sha Tsui EastKowloonHong Kong
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32084</description>
+            <Point id="geom_198">
+                <coordinates>114.1796057,22.3185673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>2015 IEEE Radar Conference (RadarCon)</name>
+            <description>from 10 May - 15 May 2015
+in Crystal Gateway MarriottArlington, VA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=18698</description>
+            <Point id="geom_199">
+                <coordinates>-77.1067698,38.8799697,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>2015 IEEE International Electric Machines &amp; Drives Conference (IEMDC)</name>
+            <description>from 10 May - 13 May 2015
+in Coeur d'Alene Resort115 South Second StreetCoeur d'Alene, ID, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32655</description>
+            <Point id="geom_200">
+                <coordinates>-116.7834001,47.6723864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>2015 IEEE International Workshop Technical Committee on Communications Quality and Reliability (CQR 2015)</name>
+            <description>from 10 May - 15 May 2015
+in Francis Marion Hotel387 King StreetCharleston, SC, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33101</description>
+            <Point id="geom_201">
+                <coordinates>-79.9368462,32.7859585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>2015 IEEE 19th Workshop on Signal and Power Integrity (SPI)</name>
+            <description>from 10 May - 13 May 2015
+in TBDBerlin, Germany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35231</description>
+            <Point id="geom_202">
+                <coordinates>13.404954,52.5200066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>2015 IEEE International Symposium on Medical Measurements and Applications (MeMeA)</name>
+            <description>from 07 May - 09 May 2015
+in Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35115</description>
+            <Point id="geom_203">
+                <coordinates>13.404954,52.5200066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>2015 IEEE/IAS 51st Industrial &amp; Commercial Power Systems Technical Conference (I&amp;CPS)</name>
+            <description>from 06 May - 08 May 2015
+in Marriott Calgary DT11 9th Ave. S.E.Calgary, AB, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33923</description>
+            <Point id="geom_204">
+                <coordinates>-114.0631924,51.0445861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>2015 12th IEEE Conference on Software Architecture (WICSA)</name>
+            <description>from 04 May - 08 May 2015
+in Ecole de Technologie Supérieure de Montréal1100 Rue Notre-Dame OuestMontréal, QC, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32128</description>
+            <Point id="geom_205">
+                <coordinates>-73.5625211,45.4944353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>2015 IEEE 11th International Conference on Automatic Face &amp; Gesture Recognition (FG 2015)</name>
+            <description>from 04 May - 08 May 2015
+in Cankarjev dom - Congress Centre LjubljanaPresernova cesta 10Ljubljana, Slovenia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33506</description>
+            <Point id="geom_206">
+                <coordinates>14.4988365,46.0500434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)</name>
+            <description>from 04 May - 07 May 2015
+in tbdShenzhen, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34548</description>
+            <Point id="geom_207">
+                <coordinates>114.057868,22.543099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>2015 International Symposium on Next-Generation Electronics (ISNE)</name>
+            <description>from 04 May - 06 May 2015
+in National Taiwan University of Science and Technology#43 KeeLung Road, Sec. 4Taipei, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33902</description>
+            <Point id="geom_208">
+                <coordinates>121.4913182,25.0435466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>2015 ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS)</name>
+            <description>from 04 May - 05 May 2015
+in Oakland Marriott1001 BroadwayOakland, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35083</description>
+            <Point id="geom_209">
+                <coordinates>-122.2729171,37.8021736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>2015 26th Annual SEMI Advanced Semiconductor Manufacturing Conference (ASMC)</name>
+            <description>from 03 May - 06 May 2015
+in Hilton534 BroadwaySaratoga Springs, NY, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35254</description>
+            <Point id="geom_210">
+                <coordinates>-73.7825793,43.0857598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>2015 IEEE 28th Canadian Conference on Electrical and Computer Engineering (CCECE)</name>
+            <description>from 03 May - 06 May 2015
+in World Trade and Convention Centre1800 Argyle StreetHalifax, NS, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32270</description>
+            <Point id="geom_211">
+                <coordinates>-63.5755174,44.6484085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>2015 IEEE International Particle Accelerator Conference (IPAC)</name>
+            <description>from 03 May - 08 May 2015
+in TBDRichmond, VA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=17179</description>
+            <Point id="geom_212">
+                <coordinates>-77.6188084,37.6547831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>2015 First International Forum on Disaster Strategic Planning and Management (IDSPM Forum)</name>
+            <description>from 03 May - 05 May 2015
+in Hilton HotelJeddahSaudi Arabia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34790</description>
+            <Point id="geom_213">
+                <coordinates>39.172778,21.543333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>2015 IEEE International Workshop on Integrated Power Packaging (IWIPP)</name>
+            <description>from 03 May - 06 May 2015
+in TBDTBDTBDTBDTBDChicago, IL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33533</description>
+            <Point id="geom_214">
+                <coordinates>-87.6297982,41.8781136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>2015 IEEE 23rd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)</name>
+            <description>from 02 May - 06 May 2015
+in Vancouver Marriott Pinnacle Downtown1128 West Hastings StreetVancouver, BC, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35036</description>
+            <Point id="geom_215">
+                <coordinates>-123.1204422,49.2879707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>2015 IEEE International Workshop on Local and Metropolitan Area Networks (LANMAN)</name>
+            <description>from 02 May - 04 May 2015
+in Tsinghua UniversityBeijing, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35327</description>
+            <Point id="geom_216">
+                <coordinates>116.3264439,39.9996674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>2015 IEEE Women in Engineering International Leadership Conference</name>
+            <description>from 30 Apr - 02 May 2015
+in CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34994</description>
+            <Point id="geom_217">
+                <coordinates>116.3264439,39.9996674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>2015 Fifth International Conference on Digital Information and Communication Technology and its Applications (DICTAP)</name>
+            <description>from 29 Apr - 01 May 2015
+in Lebanese UniversityLebanese UniversityBeirut, Lebanon
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34319</description>
+            <Point id="geom_218">
+                <coordinates>35.5669831,33.8794534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>2015 Third International Conference on Technological Advances in Electrical, Electronics and Computer Engineering (TAEECE)</name>
+            <description>from 29 Apr - 01 May 2015
+in Lebanese UniversityLebanese UniversityBeirut, Lebanon
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34320</description>
+            <Point id="geom_219">
+                <coordinates>35.5669831,33.8794534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>2015 IEEE MTT-S International Conference on Microwaves for Intelligent Mobility (ICMIM)</name>
+            <description>from 27 Apr - 29 Apr 2015
+in TBDGermany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33581</description>
+            <Point id="geom_220">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>2015 IEEE International Vacuum Electronics Conference (IVEC)</name>
+            <description>from 27 Apr - 29 Apr 2015
+in Beijing International Convention CenterNo.8 Beichendong Rd., Chaoyang Dist.100101, Beijing, ChinaBeijing, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34108</description>
+            <Point id="geom_221">
+                <coordinates>116.4110864,39.9942845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>2015 International Symposium on VLSI Technology, Systems and Application (VLSI-TSA)</name>
+            <description>from 27 Apr - 29 Apr 2015
+in The Ambassador Hotel188 Chung Hwa Road, Section 2Hsinchu, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34969</description>
+            <Point id="geom_222">
+                <coordinates>120.9669257,24.8066493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>2015 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)</name>
+            <description>from 27 Apr - 29 Apr 2015
+in The Ambassador Hotel188 Chung Hwa Road, Section 2Hsinchu, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35040</description>
+            <Point id="geom_223">
+                <coordinates>120.9669257,24.8066493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>2015 IEEE 33rd VLSI Test Symposium (VTS)</name>
+            <description>from 27 Apr - 29 Apr 2015
+in Silverado Resort and Spa1600 Atlas Peak roadNapa, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34942</description>
+            <Point id="geom_224">
+                <coordinates>-122.2645283,38.3487412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>2015 International Conference on Cloud Computing (ICCC)</name>
+            <description>from 26 Apr - 29 Apr 2015
+in Conference CenterPrincess Nourah Bint Abdulrahman UniversityRiyadh, Saudi Arabia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34447</description>
+            <Point id="geom_225">
+                <coordinates>46.7236754,24.852384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>2015 IEEE Information Theory Workshop (ITW)</name>
+            <description>from 26 Apr - 01 May 2015
+in Mishkenot Sha'ananimP.O. Box 8215Jerusalem, Israel
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33791</description>
+            <Point id="geom_226">
+                <coordinates>35.21371,31.768319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>IEEE INFOCOM 2015 - IEEE Conference on Computer Communications</name>
+            <description>from 26 Apr - 30 Apr 2015
+in SHERATON HONG KONG HOTEL &amp; TOWERS20 Nathan RoadKowloon, Hong Kong
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30874</description>
+            <Point id="geom_227">
+                <coordinates>114.1726015,22.2952629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>2015 IEEE-IAS/PCA Cement Industry Conference</name>
+            <description>from 24 Apr - 01 May 2015
+in Sheraton Centre Toronto123 Queen Street WestToronto, ON, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30248</description>
+            <Point id="geom_228">
+                <coordinates>-79.3844646,43.6511809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>2015 5th International Conference on Information Science and Technology (ICIST)</name>
+            <description>from 24 Apr - 26 Apr 2015
+in Changsha CityHubei Province, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35240</description>
+            <Point id="geom_229">
+                <coordinates>114.341862,30.546498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>2015 IEEE 18th International Symposium on Design and Diagnostics of Electronic Circuits &amp; Systems (DDECS)</name>
+            <description>from 22 Apr - 24 Apr 2015
+in Palace HotelToplicin Venac 23Belgrade, Serbia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34215</description>
+            <Point id="geom_230">
+                <coordinates>20.4548842,44.8163707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>2015 7th International IEEE/EMBS Conference on Neural Engineering (NER)</name>
+            <description>from 22 Apr - 24 Apr 2015
+in TBDTBDParis, France
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31340</description>
+            <Point id="geom_231">
+                <coordinates>2.3522219,48.856614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>2015 International Conference on Computation of Power, Energy Information and Commuincation (ICCPEIC)</name>
+            <description>from 22 Apr - 23 Apr 2015
+in J.BaskaranAdhiparasakthi Engineering College, Melmaruvathur, Chennai, Tamilnadu,India.Chennai, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35079</description>
+            <Point id="geom_232">
+                <coordinates>80.2252278,13.0597049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>2015 Second International Conference on Computing Technology and Information Management (ICCTIM)</name>
+            <description>from 21 Apr - 23 Apr 2015
+in Universiti Tun Hussein Onn MalaysiaMalaysia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34997</description>
+            <Point id="geom_233">
+                <coordinates>103.0868554,1.8538718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>2015 IEEE International Conference on Multimedia Big Data (BigMM)</name>
+            <description>from 20 Apr - 22 Apr 2015
+in China National Conference Center (CNCC)China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33930</description>
+            <Point id="geom_234">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>ICASSP 2015 - 2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</name>
+            <description>from 19 Apr - 24 Apr 2015
+in Brisbane Convention &amp; Exhibition CentreSouth Brisbane, Queensland, Australia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=17257</description>
+            <Point id="geom_235">
+                <coordinates>153.0169365,-27.4747498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>2015 IEEE Rural Electric Power Conference (REPC)</name>
+            <description>from 19 Apr - 21 Apr 2015
+in Grove Park Inn Resort &amp; SpaAsheville, NC, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=20888</description>
+            <Point id="geom_236">
+                <coordinates>-82.5514869,35.5950581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>2015 Integrated Communication, Navigation, and Surveillance Conference (ICNS)</name>
+            <description>from 19 Apr - 24 Apr 2015
+in Westin Washington Dulles2520 Wasser TerraceHerdon, VA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32838</description>
+            <Point id="geom_237">
+                <coordinates>-77.4278659,38.9556284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>2015 IEEE International Reliability Physics Symposium (IRPS)</name>
+            <description>from 19 Apr - 23 Apr 2015
+in Hyatt Regency Monterey Hotel &amp; Spa1 Old Golf Course RoadMonterey, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31514</description>
+            <Point id="geom_238">
+                <coordinates>-121.874181,36.5928306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>2015 IEEE Region 5 Annual Meeting</name>
+            <description>from 18 Apr - 19 Apr 2015
+in InterContinental New Orleans444 St. Charles AveNew Orleans, LA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33297</description>
+            <Point id="geom_239">
+                <coordinates>-90.0696402,29.9502753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI 2015)</name>
+            <description>from 16 Apr - 19 Apr 2015
+in New York Marriott at the Brooklyn BridgeBrooklyn, NY, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=21167</description>
+            <Point id="geom_240">
+                <coordinates>-73.9441579,40.6781784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>2015 Wireless Telecommunications Symposium (WTS)</name>
+            <description>from 15 Apr - 17 Apr 2015
+in Holiday Inn Midtown 57th Street440 W 57th StreetNew York City, NY, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34654</description>
+            <Point id="geom_241">
+                <coordinates>-73.9874565,40.7684256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>2015 IEEE International Conference on RFID (RFID)</name>
+            <description>from 15 Apr - 17 Apr 2015
+in San Diego Convention Center111 West Harbor DriveSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34964</description>
+            <Point id="geom_242">
+                <coordinates>-117.1638481,32.7078856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>2015 Seventh Annual IEEE Green Technologies Conference (GreenTech)</name>
+            <description>from 15 Apr - 17 Apr 2015
+in InterContinental New Orleans444 St. Charles Ave.New Orleans, LA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33288</description>
+            <Point id="geom_243">
+                <coordinates>-90.0696402,29.9502753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>2015 IEEE International Symposium on Technologies for Homeland Security (HST)</name>
+            <description>from 14 Apr - 16 Apr 2015
+in Westin Hotel70 Third AvenueWaltham, MA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34651</description>
+            <Point id="geom_244">
+                <coordinates>-71.2599112,42.3948569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>2015 Annual IEEE Systems Conference (SysCon)</name>
+            <description>from 13 Apr - 16 Apr 2015
+in Marriott Pinnacle VancouverVancouver, BC, Canada
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=21231</description>
+            <Point id="geom_245">
+                <coordinates>-123.120278,49.288056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>2015 IEEE 30th International Conference on Data Engineering (ICDE)</name>
+            <description>from 13 Apr - 16 Apr 2015
+in COEXSamsung-dongKangnam-guSeoul, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34367</description>
+            <Point id="geom_246">
+                <coordinates>127.0473248,37.5172363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>2015 IEEE 8th International Conference on Software Testing, Verification and Validation (ICST)</name>
+            <description>from 13 Apr - 17 Apr 2015
+in Congress GrazAlbrechtgasse 1Graz, Austria
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32117</description>
+            <Point id="geom_247">
+                <coordinates>15.4377162,47.0698863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>2015 14th ACM/IEEE Conference on Information Processing
+in Sensor Networks (IPSN)</name>
+            <description>from 13 Apr - 17 Apr 2015
+in WA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35164</description>
+            <Point id="geom_248">
+                <coordinates>15.4377162,47.0698863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>2015 IEEE 20th Real-Time and Embedded Technology and Applications Symposium (RTAS)</name>
+            <description>from 13 Apr - 16 Apr 2015
+in TBDSeattle, WA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34971</description>
+            <Point id="geom_249">
+                <coordinates>-122.3261447,47.7062631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>2015 Workshop on Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES)</name>
+            <description>from 13 Apr - 13 Apr 2015
+in CPSWeek 2015 VenueSeattle, WA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35380</description>
+            <Point id="geom_250">
+                <coordinates>-122.3320708,47.6062095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>2015 6th Doctoral Conference on Computing, Electrical and Industrial Systems (DoCEIS)</name>
+            <description>from 13 Apr - 15 Apr 2015
+in Hotel Costa da CaparicaAv. General Humberto Delgado, 47Costa da Caparica, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35218</description>
+            <Point id="geom_251">
+                <coordinates>-9.2364055,38.6413487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>2015 IEEE 16th Annual  Wireless and Microwave Technology Conference (WAMICON)</name>
+            <description>from 13 Apr - 15 Apr 2015
+in Hilton Cocoa Beach Oceanfront1550 North Atlantic Ave.Cocoa Beach, FL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33876</description>
+            <Point id="geom_252">
+                <coordinates>-80.6078053,28.3386818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>2015 IEEE Conference on Network Softwarization (NetSoft)</name>
+            <description>from 13 Apr - 17 Apr 2015
+in University College LondonGower StLondon, United Kingdom
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35298</description>
+            <Point id="geom_253">
+                <coordinates>-0.1325598,51.5222848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>2015 IEEE Sensors Applications Symposium (SAS)</name>
+            <description>from 13 Apr - 15 Apr 2015
+in Hotel KolovareCroatia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35003</description>
+            <Point id="geom_254">
+                <coordinates>15.2,45.1,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>2015 Joint Conference of the IEEE International Frequency Control Symposium &amp; the European Frequency and Time Forum (FCS)</name>
+            <description>from 12 Apr - 16 Apr 2015
+in Colorado Convention Center700 14th StreetDenver, CO, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32583</description>
+            <Point id="geom_255">
+                <coordinates>-104.994611,39.7433123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>2015 IEEE PES Insulated Conductors Committee Meeting (PES-ICC Spring)</name>
+            <description>from 10 Apr - 18 Apr 2015
+in Hilton Clearwater Beach400 Mandalay Ave.Clearwater Beach, FL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33155</description>
+            <Point id="geom_256">
+                <coordinates>-82.82848,27.978909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>SoutheastCon 2015</name>
+            <description>from 10 Apr - 13 Apr 2015
+in HILTON FORT LAUDERDALE MARINAFL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33630</description>
+            <Point id="geom_257">
+                <coordinates>-81.5157535,27.6648274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>2015 International Workshop on Recent Advances in Sliding Modes (RASM 2015)</name>
+            <description>from 09 Apr - 11 Apr 2015
+in Bogazici UniversityBebekIstanbul, Turkey
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35300</description>
+            <Point id="geom_258">
+                <coordinates>29.0444613,41.0763264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>2015 IEEE 11th International Conference on Networking, Sensing and Control (ICNSC)</name>
+            <description>from 09 Apr - 11 Apr 2015
+in Howard Civil Service International House, Taipei, TaiwanNo. 30,Sec. 3,Shin-Sheng South RoadTaipei, Taiwan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34756</description>
+            <Point id="geom_259">
+                <coordinates>121.4913182,25.0435466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>2015 Data Compression Conference (DCC)</name>
+            <description>from 07 Apr - 09 Apr 2015
+in Snowbird Ski and Summer ResortP.O. Box 929000Snowbird, UT, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33995</description>
+            <Point id="geom_260">
+                <coordinates>-111.6552024,40.5818948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>2015 IEEE 27th Annual Software Technology Conference (STC)</name>
+            <description>from 07 Apr - 09 Apr 2015
+in TBDLong Beach, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35068</description>
+            <Point id="geom_261">
+                <coordinates>-118.0939104,33.8633217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_264">
+            <name>2015 6th International Conference on Information and Communication Systems (ICICS)</name>
+            <description>from 07 Apr - 09 Apr 2015
+in Jordan University of Science and TechnologyJordan University of Science and TechnologyP.O. Box 3030Amman, Jordan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35017</description>
+            <Point id="geom_262">
+                <coordinates>35.9456951,31.9565783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_265">
+            <name>2015 International Conference on Communications and Signal Processing (ICCSP)</name>
+            <description>from 02 Apr - 04 Apr 2015
+in Digital Library Conference Hall.Department of Electronics and Communication Engineering,  Adhiparasakthi Engineering College,Melmaruvathur, Kanchipuram-District, Tamilnadu-603319, INDIAMelmaruvathur, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34705</description>
+            <Point id="geom_263">
+                <coordinates>79.831166,12.432008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_266">
+            <name>2015 2nd International Conference on Biomedical Engineering (ICoBE)</name>
+            <description>from 30 Mar - 31 Mar 2015
+in Kuala Lumpur, Malaysia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34716</description>
+            <Point id="geom_264">
+                <coordinates>79.831166,12.432008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_267">
+            <name>2015 IEEE International Wireless Symposium (IWS)</name>
+            <description>from 30 Mar - 01 Apr 2015
+in Sheraton Futian ShenzenGreat China International Exchange Square, Fuhua Road, Futian District, Shenzhen 518048, ChinaChina
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34610</description>
+            <Point id="geom_265">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_268">
+            <name>2015 Joint Urban Remote Sensing Event (JURSE)</name>
+            <description>from 30 Mar - 01 Apr 2015
+in The Swiss Tech Convention CenterRoute Louis-Favre 2Ecublens, Switzerland
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34673</description>
+            <Point id="geom_266">
+                <coordinates>6.5670272,46.5229635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_269">
+            <name>2015 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)</name>
+            <description>from 29 Mar - 31 Mar 2015
+in TBDPhiladelphia, PA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35025</description>
+            <Point id="geom_267">
+                <coordinates>-75.163789,39.952335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_270">
+            <name>2015 Seventh International Conference on Advanced Computational Intelligence (ICACI)</name>
+            <description>from 27 Mar - 29 Mar 2015
+in Wuyi, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35151</description>
+            <Point id="geom_268">
+                <coordinates>-75.163789,39.952335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_271">
+            <name>2015 5th International Workshop on Magnetic Particle Imaging (IWMPI)</name>
+            <description>from 26 Mar - 28 Mar 2015
+in TBDTBDIstanbul, Turkey
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35279</description>
+            <Point id="geom_269">
+                <coordinates>28.97696,41.00527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_272">
+            <name>2015 Sixth International Renewable Energy Congress (IREC)</name>
+            <description>from 24 Mar - 26 Mar 2015
+in Royal Thalassa MonastirRoute Touristique Skanes Bp 75, SkanesMonastir, Tunisia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34650</description>
+            <Point id="geom_270">
+                <coordinates>10.833333,35.783333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_273">
+            <name>2015 IEEE 29th International Conference on Advanced Information Networking and Applications (AINA)</name>
+            <description>from 24 Mar - 27 Mar 2015
+in KDJ Convention CenterKDJCENTER151 Sangmoo-PyeonghwagilSeo-guGuwangiu, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34533</description>
+            <Point id="geom_271">
+                <coordinates>126.8910977,35.1528248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_274">
+            <name>2015 International Conference on Microelectronic Test Structures (ICMTS)</name>
+            <description>from 23 Mar - 26 Mar 2015
+in Doubletree by Hilton Phoenix Tempe2100 So. Priest Dr. Tempe, AZ, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34355</description>
+            <Point id="geom_272">
+                <coordinates>-111.962409,33.406366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_275">
+            <name>2015 IEEE International Symposium on Inertial Sensors and Systems (ISISS)</name>
+            <description>from 23 Mar - 26 Mar 2015
+in Hapuna Beach Prince Hotel62 Kauna'Oa DrWaimea, HI, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34775</description>
+            <Point id="geom_273">
+                <coordinates>-155.8247036,19.9981964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_276">
+            <name>2015 IEEE International Conference on Identity, Security and Behavior Analysis (ISBA)</name>
+            <description>from 23 Mar - 25 Mar 2015
+in InterContinental Grand Stanford Hong KongThe Hong Kong Polytechnic UniversityTsimshatsui EastKow loonHong Kong
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34949</description>
+            <Point id="geom_274">
+                <coordinates>114.109497,22.396428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_277">
+            <name>2015 31st International Review of Progress in Applied Computational Electromagnetics (ACES)</name>
+            <description>from 22 Mar - 26 Mar 2015
+in Williamsburg Lodge310 S England StWilliamsburg, VA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34277</description>
+            <Point id="geom_275">
+                <coordinates>-76.7002795,37.2685031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>2015 Optical Fiber Communications Conference and Exhibition (OFC)</name>
+            <description>from 22 Mar - 26 Mar 2015
+in Los Angeles Convention CenterLos Angeles, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35284</description>
+            <Point id="geom_276">
+                <coordinates>-118.2717735,34.0397967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_279">
+            <name>2015 IEEE Workshop on Microelectronics and Electron Devices (WMED)</name>
+            <description>from 20 Mar - 20 Mar 2015
+in Student Union Building Boise State University1910 University DriveBoise, ID, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35334</description>
+            <Point id="geom_277">
+                <coordinates>-116.2059975,43.6056603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_280">
+            <name>2015 International Conference on Innovations in Information,Embedded and Communication Systems (ICIIECS)</name>
+            <description>from 19 Mar - 20 Mar 2015
+in Karpagam College of EnginneringMyleripalayamOthakkalmandapamCoimbatoreTamilnaduCoimbatore, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34386</description>
+            <Point id="geom_278">
+                <coordinates>76.9558321,11.0168445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_281">
+            <name>2015 International Conference on Circuit, Power and Computing Technologies (ICCPCT)</name>
+            <description>from 19 Mar - 20 Mar 2015
+in Noorul Islam Centre for Higher EducationKumara coilNagercoilK.K.DistTamil NaduNagercoil, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35248</description>
+            <Point id="geom_279">
+                <coordinates>77.4118996,8.1832857,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_282">
+            <name>2015 IEEE International Conference on Industrial Technology (ICIT)</name>
+            <description>from 17 Mar - 19 Mar 2015
+in Hotel Tryp Sevilla MacarenaSan Juan de Ribera, 2Seville, Spain
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33080</description>
+            <Point id="geom_280">
+                <coordinates>-5.9873708,37.4032387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_283">
+            <name>2015 Regional IEEE Symposium on Electromagnetic Compatibility</name>
+            <description>from 16 Mar - 20 Mar 2015
+in Santa Clara Convention Center5001 Great America PkwySanta Clara, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=19953</description>
+            <Point id="geom_281">
+                <coordinates>-121.975247,37.4044488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_284">
+            <name>2015 IEEE Symposium on Electromagnetic Compatibility and Signal Integrity</name>
+            <description>from 16 Mar - 20 Mar 2015
+in Santa Clara Convention &amp; Visitors Bureau1850 Warburton AvenueSanta Clara, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33060</description>
+            <Point id="geom_282">
+                <coordinates>-121.958634,37.355481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_285">
+            <name>2015 International Conference on Signal Processing and Communication (ICSC)</name>
+            <description>from 16 Mar - 18 Mar 2015
+in Jaypee Institute of Information TechnologyA-10 Sector 62 Noida, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34456</description>
+            <Point id="geom_283">
+                <coordinates>77.3639292,28.6207641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>2015 IEEE International Inter-Disciplinary Conference on Cognitive Methods in Situation Awareness and Decision Support (CogSIMA)</name>
+            <description>from 16 Mar - 19 Mar 2015
+in TBDOrlando, FL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34245</description>
+            <Point id="geom_284">
+                <coordinates>-81.3915554,28.4447502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>2015 German Microwave Conference (GeMiC)</name>
+            <description>from 16 Mar - 18 Mar 2015
+in University of Erlangen-NürnbergSchool of Business and Economics (WISO) Lange Gasse 20 Nuremberg, Germany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35215</description>
+            <Point id="geom_285">
+                <coordinates>11.0860734,49.4585979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>2015 IEEE Applied Power Electronics Conference and Exposition (APEC)</name>
+            <description>from 15 Mar - 19 Mar 2015
+in Charlotte Convention Center501 South College StreetCharlotte, NC, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=30259</description>
+            <Point id="geom_286">
+                <coordinates>-80.8456832,35.2223511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>2015 China Semiconductor Technology International Conference (CSTIC)</name>
+            <description>from 15 Mar - 16 Mar 2015
+in SHICC Shanghai International Convention CenterNo.2727 Riverside Avenue Pudong,Shanghai, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34691</description>
+            <Point id="geom_287">
+                <coordinates>121.544379,31.221517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>2014 International Conference on Photonics, Optics and Laser Technology (PHOTOPTICS)</name>
+            <description>from 13 Mar - 15 Mar 2015
+in Berlin, Germany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34512</description>
+            <Point id="geom_288">
+                <coordinates>121.544379,31.221517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>2015 International Conference on Recent Developments in  Control, Automation and Power Engineering (RDCAPE)</name>
+            <description>from 12 Mar - 13 Mar 2015
+in Amity University Uttar PradeshSector  125NoidaDist. Gautam Buddha NagarUttar PradeshNoida, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35314</description>
+            <Point id="geom_289">
+                <coordinates>77.3910265,28.5355161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>2015 2nd International Conference on “Computing for Sustainable Global Development” (INDIACom)</name>
+            <description>from 11 Mar - 13 Mar 2015
+in Bharati Vidyapeeth's Institute  of Computer Applications and Management (BVICAM)A-4, Paschim ViharRohtak RoadAdjacent to Paschim Vihar (East) Metro StationNew DelhiNew Delhi, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35071</description>
+            <Point id="geom_290">
+                <coordinates>77.22496,28.635308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>2015 10th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP)</name>
+            <description>from 11 Mar - 14 Mar 2015
+in Available soonGermany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34189</description>
+            <Point id="geom_291">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>2015 IEEE International Conference on Cloud Engineering (IC2E)</name>
+            <description>from 09 Mar - 13 Mar 2015
+in Arizona State UniversityTempe, AZ, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35067</description>
+            <Point id="geom_292">
+                <coordinates>-111.9280527,33.4242399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_295">
+            <name>2015 IEEE Wireless Communications and Networking Conference (WCNC)</name>
+            <description>from 09 Mar - 12 Mar 2015
+in Hilton New Orleans RiversideNew Orleans, LA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=21027</description>
+            <Point id="geom_293">
+                <coordinates>-90.063697,29.947902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_296">
+            <name>2015 International Conference on Networked Systems (NetSys)</name>
+            <description>from 09 Mar - 13 Mar 2015
+in Campus BTU Cottbus-SenftenbergCottbus, Germany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34399</description>
+            <Point id="geom_294">
+                <coordinates>14.3328679,51.7563108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_297">
+            <name>2015 Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE)</name>
+            <description>from 09 Mar - 13 Mar 2015
+in ALPEXPO-ALPES CongresParc Événementiel de Grenoble Avenue d'Innsbruck CS 52408 Grenoble cedex 2, France
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34854</description>
+            <Point id="geom_295">
+                <coordinates>5.724524,45.188529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_298">
+            <name>2015 IEEE Aerospace Conference</name>
+            <description>from 07 Mar - 14 Mar 2015
+in Yellowstone Conference CenterP.O. Box 1600011 Lone Mountain TrailBig Sky, MT, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33705</description>
+            <Point id="geom_296">
+                <coordinates>-111.3334806,45.2763043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_299">
+            <name>2015 IEEE International Conference on Mechatronics (ICM)</name>
+            <description>from 06 Mar - 08 Mar 2015
+in Nagoya Institute of TechnologyGokiso, ShowaNagoya, Japan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33649</description>
+            <Point id="geom_297">
+                <coordinates>136.9208642,35.1492209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_300">
+            <name>2015 IEEE International Conference on Electrical, Computer and Communication Technologies (ICECCT)</name>
+            <description>from 05 Mar - 07 Mar 2015
+in SVS College of EngineeringJP NagarArasampalayamPollachiCoimbatore, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34831</description>
+            <Point id="geom_298">
+                <coordinates>77.0106693,10.6572737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_301">
+            <name>2015 International Workshop on Antenna Technology (iWAT)</name>
+            <description>from 04 Mar - 06 Mar 2015
+in Hotel President16 Euljiro, Jung-GuSeoul, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34094</description>
+            <Point id="geom_299">
+                <coordinates>126.9976673,37.5672914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_302">
+            <name>2015 International Conference on Cognitive Computing and Information Processing (CCIP)</name>
+            <description>from 03 Mar - 04 Mar 2015
+in JSS Academy of Technical EducationC-20/1, Sector 62Noida, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35256</description>
+            <Point id="geom_300">
+                <coordinates>77.3639292,28.6207641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_303">
+            <name>2015 International Conference on Electrical Systems for Aircraft, Railway, Ship Propulsion and Road Vehicles (ESARS)</name>
+            <description>from 03 Mar - 05 Mar 2015
+in E.ON Energy Research Center at RWTH Aachen UniversityMathieustr. 10 Main BuildingAachen, Germany
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=32686</description>
+            <Point id="geom_301">
+                <coordinates>6.0838868,50.7753455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_304">
+            <name>2015 International Conference on Industrial Engineering and Operations Management (IEOM)</name>
+            <description>from 03 Mar - 05 Mar 2015
+in Hyatt Regency DubaiDeiraP.O. Box 5588DubaiDubai, United Arab Emirates
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34530</description>
+            <Point id="geom_302">
+                <coordinates>55.1817407,25.0476643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_305">
+            <name>2015 1st International Conference on  Industrial Networks and Intelligent Systems (INISCom)</name>
+            <description>from 02 Mar - 04 Mar 2015
+in TBDTBDTokyo, Japan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34103</description>
+            <Point id="geom_303">
+                <coordinates>139.6964522,35.7077681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_306">
+            <name>2015 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI)</name>
+            <description>from 02 Mar - 05 Mar 2015
+in Portland Marriott Downtown Waterfront1401 SW Naito ParkwayPortland, OR, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33701</description>
+            <Point id="geom_304">
+                <coordinates>-122.6756475,45.5123866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_307">
+            <name>2015 IEEE/OES Eleventh Current, Waves and Turbulence Measurement (CWTM)</name>
+            <description>from 02 Mar - 06 Mar 2015
+in Hilton St. Petersburg BayfrontSt. Petersburg, FL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31994</description>
+            <Point id="geom_305">
+                <coordinates>-82.64,27.773056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_308">
+            <name>2015 Twenty First  National Conference on Communications (NCC)</name>
+            <description>from 27 Feb - 01 Mar 2015
+in VMCC convention centerIIT BombayPowaiMumbai, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34578</description>
+            <Point id="geom_306">
+                <coordinates>72.9050809,19.1196773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_309">
+            <name>2015 International Conference on Computing and Communications Technologies (ICCCT)</name>
+            <description>from 26 Feb - 27 Feb 2015
+in Sri Sairam Engineering CollegeSai Leo NagarWest tambaramChennai, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33976</description>
+            <Point id="geom_307">
+                <coordinates>80.1112313,12.9371762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_310">
+            <name>2015 International Conference on Computing Communication Control and automation(ICCUBEA)</name>
+            <description>from 26 Feb - 27 Feb 2015
+in Pimpri Chinchwad College of EnggSector no. 26,Near Akurdi Railway StationNigdi, PradhikaranPune, MaharashtraPune, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34886</description>
+            <Point id="geom_308">
+                <coordinates>73.8567437,18.5204303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_311">
+            <name>2015 2nd International Conference on Electronics and Communication Systems (ICECS)</name>
+            <description>from 26 Feb - 27 Feb 2015
+in Karpagam College of EngineeringOthakalmandapamCoimbatore, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34418</description>
+            <Point id="geom_309">
+                <coordinates>77.0017465,10.8743614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_312">
+            <name>2015 International Conference on Electronics, Communications and Computers (CONIELECOMP)</name>
+            <description>from 25 Feb - 27 Feb 2015
+in Universidad de las Américas PueblaEx hacienda Sta Catarina Mártir S/NCholula, Mexico
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34867</description>
+            <Point id="geom_310">
+                <coordinates>-98.3018297,19.0764375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_313">
+            <name>2015 IEEE Underwater Technology (UT)</name>
+            <description>from 23 Feb - 25 Feb 2015
+in National Institute of Ocean TechnologyTambaram Main RoadNarayanapuram, PallikaranaiChennai, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34494</description>
+            <Point id="geom_311">
+                <coordinates>80.2059868,12.9419949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_314">
+            <name>2015 IEEE International Solid- State Circuits Conference - (ISSCC)</name>
+            <description>from 22 Feb - 26 Feb 2015
+in San Francisco MarriottSan Francisco, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=15167</description>
+            <Point id="geom_312">
+                <coordinates>-122.4043,37.7849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_315">
+            <name>2015 First Conference on Mobile and Secure Services (MOBISECSERV)</name>
+            <description>from 19 Feb - 21 Feb 2015
+in University of Florida101&amp;103 Stuzin HallGainesville, FL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34873</description>
+            <Point id="geom_313">
+                <coordinates>-82.3248262,29.6516344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_316">
+            <name>2015 2nd International Conference on Signal Processing and Integrated Networks (SPIN)</name>
+            <description>from 19 Feb - 20 Feb 2015
+in Dept. of ECE, ASET, Amity University, Sector-125, NoidaSector 125NoidaDept. of ECE, ASET, Amity University, Sector-125, NoidaNoida, Delhi-NCR, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34634</description>
+            <Point id="geom_314">
+                <coordinates>77.365276,28.606418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_317">
+            <name>2015 National Conference on Parallel Computing Technologies (PARCOMPTECH)</name>
+            <description>from 19 Feb - 20 Feb 2015
+in National Institute of Advanced Studies (NIAS)NIAS Auditorium,Indian Institute of Science (IISc) Campus,MathikereBangalore, Karnataka, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35072</description>
+            <Point id="geom_315">
+                <coordinates>77.556917,13.023483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_318">
+            <name>2015 International Conference on Innovation Information in Computing Technologies (ICIICT)</name>
+            <description>from 19 Feb - 20 Feb 2015
+in Saveetha Engineering CollegeSaveetha Nagar,Thandalam,Chennai-602105Chennai, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34592</description>
+            <Point id="geom_316">
+                <coordinates>80.2599174,12.9925096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_319">
+            <name>2015 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES)</name>
+            <description>from 19 Feb - 21 Feb 2015
+in National Institute of Technology CalicutNIT Campus P. O.KozhikodeKozhikode, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35288</description>
+            <Point id="geom_317">
+                <coordinates>75.78041,11.2587531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_320">
+            <name>2015 IEEE Power &amp; Energy Society Innovative Smart Grid Technologies Conference (ISGT)</name>
+            <description>from 18 Feb - 20 Feb 2015
+in Grand Hyatt1000 H Street, NWWashington, DC, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34541</description>
+            <Point id="geom_318">
+                <coordinates>-77.0264655,38.8995914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_321">
+            <name>2015 5th National Symposium on Information Technology: Towards New Smart World (NSITNSW)</name>
+            <description>from 17 Feb - 19 Feb 2015
+in King Saud UniversityP.O.Box 51178Riyadh, Saudi Arabia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34879</description>
+            <Point id="geom_319">
+                <coordinates>46.716667,24.633333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_322">
+            <name>2015  6th International Conference on Automation, Robotics and Applications (ICARA 2015)</name>
+            <description>from 17 Feb - 19 Feb 2015
+in Rydges Lakeland Resort38-54 Lake EsplanadeQueenstown, New Zealand
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34909</description>
+            <Point id="geom_320">
+                <coordinates>168.651492,-45.0354279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_323">
+            <name>2015 International Conference on Communications, Signal Processing, and their Applications (ICCSPA)</name>
+            <description>from 17 Feb - 19 Feb 2015
+in American University of SharjahMain BulidingSharjah, United Arab Emirates
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34841</description>
+            <Point id="geom_321">
+                <coordinates>55.4769564,25.2875718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_324">
+            <name>2015 18th International Conference on Intelligence in Next Generation Networks (ICIN)</name>
+            <description>from 17 Feb - 19 Feb 2015
+in Orange Labs38‐40 Rue du General LeclercIssy Moulineaux Cedex 9Paris, France
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34895</description>
+            <Point id="geom_322">
+                <coordinates>2.251537,48.821505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_325">
+            <name>2015 International Conference on Computing, Networking and Communications (ICNC)</name>
+            <description>from 16 Feb - 19 Feb 2015
+in Hyatt Regency Orange County11999 Harbor Blvd.Garden Grove, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34113</description>
+            <Point id="geom_323">
+                <coordinates>-117.9164173,33.7893216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_326">
+            <name>2015 IEEE International Conference on Computational Intelligence &amp; Communication Technology (CICT)</name>
+            <description>from 13 Feb - 14 Feb 2015
+in ABES ENGINEERING COLLEGECampus -1, 19th KM Stone,NH-24, Delhi-Hapur Bypass Road, Vijay Nagar,Ghaziabad U.P., IndiaGhaziabad U.P., India, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34505</description>
+            <Point id="geom_324">
+                <coordinates>77.4537578,28.6691565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_327">
+            <name>2015 10th Spanish Conference on Electron Devices (CDE)</name>
+            <description>from 11 Feb - 13 Feb 2015
+in Palacio del NuncioCalle del Rey 10Aranjuez, Spain
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34438</description>
+            <Point id="geom_325">
+                <coordinates>-3.5998837,40.0360171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_328">
+            <name>2015 IEEE International Conference on Semantic Computing (ICSC)</name>
+            <description>from 09 Feb - 11 Feb 2015
+in Anaheim Marriot700 West Convention WayAnaheim, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34934</description>
+            <Point id="geom_326">
+                <coordinates>-117.9186309,33.7985183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_329">
+            <name>2015 International Conference on Big Data and Smart Computing (BigComp)</name>
+            <description>from 09 Feb - 11 Feb 2015
+in KAL Hotel151 JungangnoJeju, Korea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35021</description>
+            <Point id="geom_327">
+                <coordinates>126.5311884,33.4996213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_330">
+            <name>2015 3rd International Conference on Model-Driven Engineering and Software Development (MODELSWARD)</name>
+            <description>from 09 Feb - 11 Feb 2015
+in ESEO AngersFrance
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34358</description>
+            <Point id="geom_328">
+                <coordinates>-0.5508446,47.4933589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_331">
+            <name>2015 3rd International Conference on Computer, Communication, Control and Information Technology (C3IT)</name>
+            <description>from 07 Feb - 08 Feb 2015
+in Academy of TechnologyG.T. Road (Adisaptagram), P.O. AEDCONAGAR,WEST BENGALHooghly, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34112</description>
+            <Point id="geom_329">
+                <coordinates>88.39,22.9,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_332">
+            <name>2015 Third International Conference on Digital Information, Networking, and Wireless Communications (DINWC)</name>
+            <description>from 03 Feb - 05 Feb 2015
+in University of SynergyRussia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35086</description>
+            <Point id="geom_330">
+                <coordinates>105.318756,61.52401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_333">
+            <name>2015 IEEE International Conference on Computational Electromagnetics (ICCEM)</name>
+            <description>from 02 Feb - 05 Feb 2015
+in City University of Hong KongAcademic Building 3Hong Kong
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34110</description>
+            <Point id="geom_331">
+                <coordinates>114.26358,22.335997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_334">
+            <name>2015 International Conference on Mechanics-Seventh Polyakhov's Reading</name>
+            <description>from 02 Feb - 06 Feb 2015
+in Saint Petersburg State UniversityStary Peterhof, Universitetsky pr., 28Saint Petersburg, Russia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35010</description>
+            <Point id="geom_332">
+                <coordinates>30.3350986,59.9342802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_335">
+            <name>2015 IEEE NW Russia Young Researchers in Electrical and Electronic Engineering Conference (EIConRusNW)</name>
+            <description>from 02 Feb - 04 Feb 2015
+in St. Petersburg Electrotechnical University LETI5 Prof.Popov str.St. Petersburg, Russia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35006</description>
+            <Point id="geom_333">
+                <coordinates>30.3350986,59.9342802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_336">
+            <name>2015 IEEE 8th GCC Conference and Exhibition (GCCCE)</name>
+            <description>from 01 Feb - 04 Feb 2015
+in Sultan Qaboos UniversityP.O. Box 33Al KhoudMuscat, Oman
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34291</description>
+            <Point id="geom_334">
+                <coordinates>58.1181236,23.5657546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_337">
+            <name>2015 IEEE 21st  International Symposium on High Performance Computer Architecture (HPCA)</name>
+            <description>from 01 Feb - 05 Feb 2015
+in TBDTBDBay Area, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34535</description>
+            <Point id="geom_335">
+                <coordinates>-122.25,37.7141454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_338">
+            <name>2015 Information Theory and Applications Workshop (ITA)</name>
+            <description>from 01 Feb - 06 Feb 2015
+in Scripps Seaside Forum8610 Kennel WaySan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35219</description>
+            <Point id="geom_336">
+                <coordinates>-117.254073,32.8643849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_339">
+            <name>2015 International Conference on Electronic Design, Computer Networks &amp; Automated Verification (EDCAV)</name>
+            <description>from 29 Jan - 30 Jan 2015
+in National Institute of Technology MeghalayaBijni ComplexLaitumkhrahShillongMeghalayaShillong, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34670</description>
+            <Point id="geom_337">
+                <coordinates>91.8932535,25.5787726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_340">
+            <name>2015 7th International Conference on Knowledge and Smart Technology (KST)</name>
+            <description>from 28 Jan - 31 Jan 2015
+in Tao-Thong Hotel, Burapha University169, Longhard Bangsaen RoadSaensuk, Muang, Chon Buri ProvinceChon Buri, Thailand
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34851</description>
+            <Point id="geom_338">
+                <coordinates>100.9367324,13.2776014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_341">
+            <name>2014 International Conference on Computer and Computational Sciences (ICCCS)</name>
+            <description>from 27 Jan - 29 Jan 2015
+in I.T.S Engineering College46, Knowledge Park-IIIGreater Noida, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33990</description>
+            <Point id="geom_339">
+                <coordinates>77.486608,28.469543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_342">
+            <name>2015 IEEE Italy Section School on Future Energy Systems</name>
+            <description>from 26 Jan - 30 Jan 2015
+in Polo Scientifico e Tecnologico “Fabio Ferrari”Via Sommarive 5, 9Trento, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34814</description>
+            <Point id="geom_340">
+                <coordinates>11.1502778,46.0643137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_343">
+            <name>2015 Annual Reliability and Maintainability Symposium (RAMS)</name>
+            <description>from 26 Jan - 29 Jan 2015
+in Innisbrook resort and golf clubPalm Harbor, FL, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=15101</description>
+            <Point id="geom_341">
+                <coordinates>-82.7637127,28.0780718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_344">
+            <name>2015 IEEE IAS Electrical Safety Workshop (ESW)</name>
+            <description>from 26 Jan - 30 Jan 2015
+in Marriott Louisville Downtown280 West Jefferson StreetLouisville, KY, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=31506</description>
+            <Point id="geom_342">
+                <coordinates>-85.7546935,38.2531884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_345">
+            <name>2015 Joint International EUROSOI Workshop and International Conference on Ultimate Integration on Silicon (EUROSOI-ULIS)</name>
+            <description>from 26 Jan - 28 Jan 2015
+in aula prodipiazza san giovanni in monte 2 BOLOGNA, Italy
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34965</description>
+            <Point id="geom_343">
+                <coordinates>11.3484556,44.4911973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_346">
+            <name>2015 IEEE Radio and Wireless Symposium (RWS)</name>
+            <description>from 25 Jan - 28 Jan 2015
+in Omni HotelSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33207</description>
+            <Point id="geom_344">
+                <coordinates>-117.158611,32.706667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_347">
+            <name>2015 IEEE Topical Conference on Power Amplifiers for Wireless and Radio Applications (PAWR)</name>
+            <description>from 25 Jan - 28 Jan 2015
+in Omni Hotel675 L StreetSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33249</description>
+            <Point id="geom_345">
+                <coordinates>-117.1586678,32.7070817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_348">
+            <name>2015 IEEE Topical Conference on Biomedical Wireless Technologies, Networks, and Sensing Systems (BioWireleSS)</name>
+            <description>from 25 Jan - 28 Jan 2015
+in Omni Hotel675 L StreetSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33453</description>
+            <Point id="geom_346">
+                <coordinates>-117.1586678,32.7070817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_349">
+            <name>2015 IEEE 15th Topical Meeting on Silicon Monolithic Integrated Circuits in RF Systems (SiRF)</name>
+            <description>from 25 Jan - 28 Jan 2015
+in Omni Hotel675 L StreetSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33390</description>
+            <Point id="geom_347">
+                <coordinates>-117.1586678,32.7070817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_350">
+            <name>2015 IEEE Topical Conference on Wireless Sensors and Sensor Networks (WiSNet)</name>
+            <description>from 25 Jan - 28 Jan 2015
+in Omni Hotel675 L StreetSan Diego, CA, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33306</description>
+            <Point id="geom_348">
+                <coordinates>-117.1586678,32.7070817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_351">
+            <name>2015 IEEE-IEEMA INTELECT Conference and Exposition (“IIICE”): Smart Electricity for Emerging Markets.</name>
+            <description>from 22 Jan - 24 Jan 2015
+in Mumbai Exhibition CenterTBDMumbai, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34606</description>
+            <Point id="geom_349">
+                <coordinates>72.8776559,19.0759837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_352">
+            <name>2015 First Workshop on Smart Grid and Renewable Energy (SGRE)</name>
+            <description>from 21 Jan - 22 Jan 2015
+in Hamad bin Khalifa University Student CenterEducation CityDoha, Qatar
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35073</description>
+            <Point id="geom_350">
+                <coordinates>51.441593,25.313964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_353">
+            <name>2015 International Conference on Solar Energy and Building (ICSoEB)</name>
+            <description>from 20 Jan - 21 Jan 2015
+in El Mouradi ClubSousse, Tunisia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35307</description>
+            <Point id="geom_351">
+                <coordinates>10.608395,35.825603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_354">
+            <name>2015 Eighth International Conference on Mobile Computing and Ubiquitous Networking (ICMU)</name>
+            <description>from 20 Jan - 22 Jan 2015
+in TBDHakodate, Japan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33696</description>
+            <Point id="geom_352">
+                <coordinates>140.7288103,41.7687933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_355">
+            <name>2015 International Biometrics &amp; Smart Government Summit (IBMSGS)</name>
+            <description>from 18 Jan - 19 Jan 2015
+in El Mouradi ClubSousse, Tunisia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35306</description>
+            <Point id="geom_353">
+                <coordinates>10.608395,35.825603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_356">
+            <name>2015 28th IEEE International Conference on Micro Electro Mechanical Systems (MEMS)</name>
+            <description>from 18 Jan - 22 Jan 2015
+in Estoril Centro de CongressosAveoda Amara; 2765-192Estoril, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35088</description>
+            <Point id="geom_354">
+                <coordinates>-9.3957486,38.7069536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_357">
+            <name>2015 International Conference on Computer Vision and Image Analysis Applications (ICCVIA)</name>
+            <description>from 18 Jan - 19 Jan 2015
+in El Mouradi ClubSousse, Tunisia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35304</description>
+            <Point id="geom_355">
+                <coordinates>10.608395,35.825603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_358">
+            <name>2015 International Conference on Communication, Information &amp; Computing Technology (ICCICT)</name>
+            <description>from 15 Jan - 17 Jan 2015
+in Sardar Patel Institute of TechnologyBhavan's Campus Munshi NagarAndheri (West)Mumbai, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33490</description>
+            <Point id="geom_356">
+                <coordinates>72.82766,19.1363246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_359">
+            <name>2015 12th International Bhurban Conference on Applied Sciences and Technology (IBCAST)</name>
+            <description>from 13 Jan - 17 Jan 2015
+in National Centre for PhysicsIslamabad, Pakistan
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34417</description>
+            <Point id="geom_357">
+                <coordinates>73.1641546,33.7504265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_360">
+            <name>2015 3rd  International Winter Conference on Brain-Computer Interface (BCI)</name>
+            <description>from 12 Jan - 14 Jan 2015
+in High1 Resort265 High1, Sabuk-Eup, Jeongsun-Kun, Gangwon ProvinceKorea (South)
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34387</description>
+            <Point id="geom_358">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_361">
+            <name>2015 International Conference on Bio-Inspired Systems and Signal Processing (BIOSIGNALS)</name>
+            <description>from 12 Jan - 15 Jan 2015
+in Lisbon, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34510</description>
+            <Point id="geom_359">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_362">
+            <name>2015 International Conference on Health Informatics (HEALTHINF)</name>
+            <description>from 12 Jan - 15 Jan 2015
+in Lisbon, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34511</description>
+            <Point id="geom_360">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_363">
+            <name>2015 International Conference on Bioinformatics Models, Methods and Algorithms (BIOINFOMATICS)</name>
+            <description>from 12 Jan - 15 Jan 2015
+in Lisbon, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34509</description>
+            <Point id="geom_361">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_364">
+            <name>2015 International Conference on Bioimaging (BIOIMAGING)</name>
+            <description>from 12 Jan - 15 Jan 2015
+in Lisbon, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34508</description>
+            <Point id="geom_362">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_365">
+            <name>2015 International Conference on Information Networking (ICOIN)</name>
+            <description>from 12 Jan - 14 Jan 2015
+in Cambodia
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34321</description>
+            <Point id="geom_363">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_366">
+            <name>2015 International Conference on Biomedical Electronics and Devices (BIODEVICES)</name>
+            <description>from 12 Jan - 15 Jan 2015
+in Lisbon, Portugal
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34506</description>
+            <Point id="geom_364">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_367">
+            <name>2015 1st Conference on Power, Dielectric and Energy Management at NERIST (ICPDEN)</name>
+            <description>from 10 Jan - 11 Jan 2015
+in NERISTNH 52ANirjuliArunachal PradeshItanagar, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34443</description>
+            <Point id="geom_365">
+                <coordinates>93.6086099,27.0869009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_368">
+            <name>2015 International Conference on Estimation, Detection and Information Fusion (ICEDIF)</name>
+            <description>from 10 Jan - 11 Jan 2015
+in International-Students Apartment74, Xuefu Road, Nangang DistrictHarbin, China
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34523</description>
+            <Point id="geom_366">
+                <coordinates>126.615491,45.71639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_369">
+            <name>2015 International Conference on Pervasive Computing (ICPC)</name>
+            <description>from 09 Jan - 10 Jan 2015
+in Sinhgad College of EngineeringS No. 44/1Vadgaon (Bk)Off Sinhgad RoadPune, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34448</description>
+            <Point id="geom_367">
+                <coordinates>73.8132616,18.4886674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_370">
+            <name>2015 IEEE International Conference on Consumer Electronics (ICCE)</name>
+            <description>from 09 Jan - 12 Jan 2015
+in Las Vegas Convention CenterLas Vegas, NV, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34177</description>
+            <Point id="geom_368">
+                <coordinates>-115.1511192,36.1311282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_371">
+            <name>2015 12th Annual IEEE Consumer Communications and Networking Conference (CCNC)</name>
+            <description>from 09 Jan - 12 Jan 2015
+in Planet Hollywood Resort and Casino3667 Las Vegas Blvd SLas Vegas, NV, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33761</description>
+            <Point id="geom_369">
+                <coordinates>-115.172501,36.1100668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_372">
+            <name>2015 International Conference on Nascent Technologies in the Engineering Field (ICNTE)</name>
+            <description>from 09 Jan - 10 Jan 2015
+in Fr. C. Rodrigues Institute of Technology, VashiAgnel Technical Education ComplexSector 9AVashiNavi MumbaiNavi Mumbai, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34477</description>
+            <Point id="geom_370">
+                <coordinates>73.0876812,19.0160643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_373">
+            <name>2015 IEEE 9th International Conference on Intelligent Systems and Control (ISCO)</name>
+            <description>from 09 Jan - 10 Jan 2015
+in Karpagam College of EngineeringMyleripalayamOthakkalmandapam(PO)CoimbatoreTamilnaduCoimbatore, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34553</description>
+            <Point id="geom_371">
+                <coordinates>76.9558321,11.0168445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_374">
+            <name>2015 International Conference on Computer Communication and Informatics (ICCCI)</name>
+            <description>from 08 Jan - 10 Jan 2015
+in Sri Shakthi Institute of Engineering and TechnologyL&amp;T By-pass roadChinniampalayam (PO)Coimbatore, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34333</description>
+            <Point id="geom_372">
+                <coordinates>76.9558321,11.0168445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_375">
+            <name>2015 7th International Conference on Communication Systems and Networks (COMSNETS)</name>
+            <description>from 06 Jan - 10 Jan 2015
+in Chancery Pavilion Hotel#135, Residency RoadBangalore, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34653</description>
+            <Point id="geom_373">
+                <coordinates>77.598767,12.965698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_376">
+            <name>2015 4th International Symposium on Emerging Trends and Technologies in Libraries and Information Services (ETTLIS)</name>
+            <description>from 06 Jan - 08 Jan 2015
+in Jaypee Institute of Information TechnologyA-10, Sector - 62NoidaUttar PradeshNoida, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33954</description>
+            <Point id="geom_374">
+                <coordinates>77.3910265,28.5355161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_377">
+            <name>2015 IEEE Winter Conference on Applications of Computer Vision (WACV)</name>
+            <description>from 05 Jan - 09 Jan 2015
+in Waikoloa Beach Marriott Resort &amp; Spa69-275 Waikoloa Beach DriveWaikoloa, HI, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=33479</description>
+            <Point id="geom_375">
+                <coordinates>-155.884755,19.916631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_378">
+            <name>2015 48th Hawaii International Conference on System Sciences (HICSS)</name>
+            <description>from 05 Jan - 08 Jan 2015
+in Grand HyattHI, USA
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=35350</description>
+            <Point id="geom_376">
+                <coordinates>-155.5827818,19.8967662,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_379">
+            <name>2015 International Conference on Advanced Computing and Communication Systems (ICACCS)</name>
+            <description>from 05 Jan - 07 Jan 2015
+in Sri Eshwar College of EngineeringKondampatti PostVadasithur viaKinathukadavuCoimbatoreCoimbatore, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34845</description>
+            <Point id="geom_377">
+                <coordinates>76.9558321,11.0168445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_380">
+            <name>2015 Eighth International Conference on Advances in Pattern Recognition (ICAPR)</name>
+            <description>from 04 Jan - 07 Jan 2015
+in Indian Statistical Institute203 B T RoadKolkata, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34255</description>
+            <Point id="geom_378">
+                <coordinates>88.2829249,22.5091375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_381">
+            <name>2015 28th International Conference on VLSI Design (VLSID)</name>
+            <description>from 03 Jan - 07 Jan 2015
+in MarriottWhitefieldBangalore , India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34897</description>
+            <Point id="geom_379">
+                <coordinates>77.7499467,12.9697999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_382">
+            <name>2015 International Conference on Signal Processing And Communication Engineering Systems (SPACES)</name>
+            <description>from 02 Jan - 03 Jan 2015
+in K L UniversityGreen FieldsVadeswaramDist - GunturAndhra PradeshGUNTUR, India
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34064</description>
+            <Point id="geom_380">
+                <coordinates>80.4365402,16.3066525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_383">
+            <name>2014 Third Conference on Millimeter-Wave and Terahertz Technologies (MMWATT)</name>
+            <description>from 30 Dec - 01 Jan 2015
+in Department of Electrical Engineering, Amirkabir University of Technology424 Hafez ave.Aboureihan bldgTehran, Iran
+
+Infos: https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=34450</description>
+            <Point id="geom_381">
+                <coordinates>51.4068537,35.7042537,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

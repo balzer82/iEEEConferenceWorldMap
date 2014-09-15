@@ -2,6 +2,9 @@
 Crawling the IEEE Conference Search and displays a map
 --------
 
+Take a look at the [CartoDB Map](http://balzer82.cartodb.com/viz/68e8bc16-3cc3-11e4-afb8-0e10bcd91c2b/embed_map)
+
+
 ## What is it for?
 
 You can use the [iEEE Conference Search](http://www.ieee.org/conferences_events/conferences/search/index.html?KEYWORDS=&CONF_SRCH_RDO=conf_date&RANGE_FROM_DATE=2014-01-01&RANGE_TO_DATE=2014-12-31&REGION=ALL&COUNTRY=ALL&STATE=ALL&CITY=ALL&SPONSOR=ALL&RowsPerPage=1000&PageLinkNum=10&ActivePage=1&SORTORDER=desc&SORTFIELD=start_date) (Institute of Electrical and Electronics Engineers), but it is a list. I think it is much more interesting to see a map, where conferences happening.
